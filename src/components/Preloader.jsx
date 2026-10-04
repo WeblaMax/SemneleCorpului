@@ -27,13 +27,13 @@ export default function Preloader({ onDone, reducedMotion }) {
   // Folosește modelul GLB doar dacă există în /public/models
   useEffect(() => {
     if (reducedMotion) return
-    fetch('/models/heart.glb', { method: 'HEAD' })
+    fetch(`${import.meta.env.BASE_URL}models/heart.glb`, { method: 'HEAD' })
       .then((r) => setHasModel(r.ok && !(r.headers.get('content-type') || '').includes('text/html')))
       .catch(() => {})
   }, [reducedMotion])
 
   const logo = (
-    <img src="/logo.png" alt="Semnalul Corpului" className="h-24 w-24 rounded-full shadow-glow sm:h-28 sm:w-28" width="112" height="112" />
+    <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Semnalul Corpului" className="h-24 w-24 rounded-full shadow-glow sm:h-28 sm:w-28" width="112" height="112" />
   )
 
   return (

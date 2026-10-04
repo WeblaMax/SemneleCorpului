@@ -4,7 +4,7 @@ import { useGLTF } from '@react-three/drei'
 import * as THREE from 'three'
 import { BEAT_MS, lubDub } from '../hooks/useHeartbeat'
 
-const MODEL_URL = '/models/heart.glb'
+const MODEL_URL = `${import.meta.env.BASE_URL}models/heart.glb`
 const mat = (color, extra = {}) =>
   new THREE.MeshPhysicalMaterial({ color, roughness: 0.38, metalness: 0.05, clearcoat: 0.8, clearcoatRoughness: 0.25, ...extra })
 

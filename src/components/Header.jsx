@@ -20,7 +20,7 @@ export default function Header() {
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between gap-3 px-4 sm:px-6">
         <a href="#acasa" aria-label="Semnalul Corpului – Acasă" className="shrink-0">
           <span className="flex items-center gap-2.5">
-            <img src="/logo.png" alt="" className="h-11 w-11 rounded-full shadow-soft" width="44" height="44" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="" className="h-11 w-11 rounded-full shadow-soft" width="44" height="44" />
             <span className="font-heading text-base font-bold leading-tight text-ocean-ink">Semnalul <span className="text-ocean-strong">Corpului</span></span>
           </span>
         </a>

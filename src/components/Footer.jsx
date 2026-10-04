@@ -9,7 +9,7 @@ export default function Footer() {
       <div className="container-x grid gap-8 md:grid-cols-3">
         <div>
           <div className="flex items-center gap-3">
-            <img src="/logo.png" alt="Semnalul Corpului" className="h-14 w-14 rounded-full" width="56" height="56" loading="lazy" />
+            <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Semnalul Corpului" className="h-14 w-14 rounded-full" width="56" height="56" loading="lazy" />
             <span className="font-heading text-lg font-bold text-white">Semnalul Corpului</span>
           </div>
           <p className="mt-3 text-sm text-ocean-bg/75">Ascultă semnalele corpului tău.</p>
