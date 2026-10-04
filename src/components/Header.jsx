@@ -36,7 +36,7 @@ export default function Header() {
               <span className="absolute -right-0.5 -top-0.5 flex h-5 min-w-5 items-center justify-center rounded-full bg-heal-dark px-1 text-[11px] font-bold text-white">{count}</span>
             )}
           </button>
-          <a href="#contact" className="btn-primary hidden !py-2.5 sm:inline-flex">Programează-te</a>
+          <a href="#contact" className="btn-primary hidden !py-2.5 sm:inline-flex">Contactează-ne</a>
           <button onClick={() => setOpen((v) => !v)} className="rounded-full p-2.5 text-ocean-ink hover:bg-white/60 lg:hidden" aria-expanded={open} aria-controls="mobile-nav" aria-label={open ? 'Închide meniul' : 'Deschide meniul'}>
             {open ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
           </button>
@@ -47,7 +47,7 @@ export default function Header() {
           {NAV.map((n) => (
             <a key={n.href} href={n.href} onClick={() => setOpen(false)} className="rounded-xl px-4 py-3 font-medium hover:bg-heal-bg">{n.label}</a>
           ))}
-          <a href="#contact" onClick={() => setOpen(false)} className="btn-primary mt-1">Programează-te</a>
+          <a href="#contact" onClick={() => setOpen(false)} className="btn-primary mt-1">Contactează-ne</a>
         </nav>
       )}
     </header>

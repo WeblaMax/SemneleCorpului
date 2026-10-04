@@ -9,7 +9,7 @@ export default function HowItWorks() {
   return (
     <section id="despre" className="section section-alt">
       <div className="container-x">
-        <SectionHeading eyebrow="Despre noi · Cum funcționează" title="Patru pași simpli spre claritate" text="Semnalul Corpului te ghidează de la prima întrebare până la rezultate explicate pe înțelesul tău." />
+        <SectionHeading eyebrow="Despre noi · Cum funcționează" title="Patru pași simpli până la comandă" text="Te ghidăm de la alegerea sistemului corpului până la primirea produselor." />
         <div className="relative">
           <svg className="absolute left-[12%] right-[12%] top-6 hidden h-14 w-[76%] md:block" viewBox="0 0 300 60" preserveAspectRatio="none" aria-hidden="true">
             <path d={EKG} fill="none" stroke="#1C8A9C" strokeOpacity=".45" strokeWidth="2" strokeDasharray="2 5" vectorEffect="non-scaling-stroke" strokeLinecap="round" />

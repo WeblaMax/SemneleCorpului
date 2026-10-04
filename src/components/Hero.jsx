@@ -8,16 +8,16 @@ export default function Hero() {
       <div className="container-x grid items-center gap-10 md:grid-cols-2">
         <motion.div initial={{ opacity: 0, y: 30 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.8, delay: 0.1 }}>
           <span className="glass inline-flex items-center gap-2 !rounded-full px-4 py-1.5 text-xs font-semibold text-heal-dark">
-            <Sparkles className="h-4 w-4" aria-hidden="true" /> Evaluări, analize și pachete de sănătate
+            <Sparkles className="h-4 w-4" aria-hidden="true" /> Suplimente și produse naturale
           </span>
           <h1 className="mt-5 text-4xl font-bold leading-tight sm:text-5xl lg:text-6xl">
             Ascultă <span className="bg-brand-gradient bg-clip-text text-transparent">semnalele</span> corpului tău
           </h1>
           <p className="mt-5 max-w-xl text-base text-ocean-ink/80 sm:text-lg">
-            O evaluare completă a organismului, de la analize de laborator la consultație, explicată clar și pe înțelesul tău. Afli ce îți spune corpul înainte să strige.
+            Alege sistemul corpului care îți transmite un semnal și descoperă suplimentele alimentare și produsele naturale potrivite, grupate clar pe categorii.
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
-            <a href="#analize" className="btn-primary">Alege evaluarea <ArrowRight className="h-4 w-4" aria-hidden="true" /></a>
+            <a href="#produse" className="btn-primary">Alege produsele <ArrowRight className="h-4 w-4" aria-hidden="true" /></a>
             <a href="#quiz" className="btn-ghost">Fă testul rapid</a>
           </div>
         </motion.div>

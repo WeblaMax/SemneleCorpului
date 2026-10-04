@@ -1,19 +1,19 @@
 import { useState } from 'react'
 import { MapPin, Clock, Phone, Mail, MessageCircle, Send } from 'lucide-react'
 import { CONTACT } from '../data/content'
-import { products, packages } from '../data/products'
+import { categories } from '../data/products'
 import Reveal from './Reveal'
 import SectionHeading from './SectionHeading'
 
 export default function Contact() {
   const [sent, setSent] = useState(false)
   const submit = (e) => { e.preventDefault(); setSent(true); e.currentTarget.reset() }
-  const options = [...products.map((p) => p.title), ...packages.map((p) => `Pachet ${p.name}`)]
+  const options = categories.map((c) => c.nume)
 
   return (
     <section id="contact" className="section">
       <div className="container-x">
-        <SectionHeading eyebrow="Contact" title="Programează-te sau scrie-ne" text="Îți răspundem în aceeași zi lucrătoare." />
+        <SectionHeading eyebrow="Contact" title="Scrie-ne sau comandă prin telefon" text="Îți răspundem în aceeași zi lucrătoare." />
         <div className="grid gap-6 lg:grid-cols-5">
           <Reveal className="lg:col-span-3">
             <form onSubmit={submit} className="glass grid gap-4 p-6 sm:grid-cols-2 sm:p-8">
@@ -26,9 +26,9 @@ export default function Contact() {
               <label className="text-sm font-medium sm:col-span-2">Email
                 <input required name="email" type="email" autoComplete="email" className="input mt-1" placeholder="nume@exemplu.md" />
               </label>
-              <label className="text-sm font-medium sm:col-span-2">Serviciul dorit
+              <label className="text-sm font-medium sm:col-span-2">Categoria de interes
                 <select name="serviciu" className="input mt-1" defaultValue="">
-                  <option value="" disabled>Alege serviciul</option>
+                  <option value="" disabled>Alege categoria</option>
                   {options.map((o) => <option key={o}>{o}</option>)}
                 </select>
               </label>

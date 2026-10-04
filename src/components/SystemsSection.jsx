@@ -36,16 +36,16 @@ export default function SystemsSection({ selected, onSelect }) {
 
   const select = (id) => {
     onSelect(selected === id ? null : id)
-    if (selected !== id) document.getElementById('analize')?.scrollIntoView({ behavior: 'smooth' })
+    if (selected !== id) document.getElementById('produse')?.scrollIntoView({ behavior: 'smooth' })
   }
 
   return (
-    <section id="evaluari" className="section section-alt">
+    <section id="sisteme" className="section section-alt">
       <div className="container-x">
         <SectionHeading
           eyebrow="Sisteme ale corpului"
           title="Ce sistem vrei să verifici?"
-          text="Alege un sistem – organul se luminează, iar mai jos vezi serviciile potrivite."
+          text="Alege un sistem – organul se luminează, iar mai jos vezi produsele din categoriile potrivite."
         />
 
         {/* Desktop: cerc interactiv */}
