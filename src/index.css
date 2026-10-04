@@ -1,0 +1,87 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ocean-bg: #E3F3F4;
+  --ocean-light: #9FD6DE;
+  --ocean-strong: #1C8A9C;
+  --ink: #0B3B4A;
+  --heal-bg: #D4F2E2;
+  --heal-accent: #3FBF8F;
+  --heal-dark: #23966B;
+  --beat: 857ms; /* ~70 bpm */
+}
+
+html { scroll-behavior: smooth; scroll-padding-top: 5.5rem; }
+body {
+  margin: 0;
+  font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  color: var(--ink);
+  background-color: var(--ocean-bg);
+  -webkit-font-smoothing: antialiased;
+  overflow-x: hidden;
+}
+h1, h2, h3, h4 { font-family: 'Poppins', ui-sans-serif, system-ui, sans-serif; color: var(--ink); }
+
+:focus-visible { outline: 3px solid var(--ocean-strong); outline-offset: 3px; border-radius: 8px; }
+
+@layer components {
+  .glass {
+    @apply rounded-card border border-ocean-light/60 bg-white/65 backdrop-blur-md shadow-soft;
+  }
+  .card-hover {
+    @apply transition duration-300 ease-out hover:-translate-y-1.5 hover:shadow-glow hover:border-heal-accent/70;
+  }
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-full px-6 py-3 font-heading text-sm font-semibold transition duration-300 focus-visible:outline-offset-2;
+  }
+  .btn-primary {
+    @apply btn bg-brand-gradient text-white shadow-soft hover:shadow-glow hover:brightness-105 hover:-translate-y-0.5;
+  }
+  .btn-ghost {
+    @apply btn border border-ocean-strong/40 bg-white/50 text-ocean-ink backdrop-blur hover:bg-white/80 hover:border-ocean-strong;
+  }
+  .section { @apply relative px-4 py-16 sm:px-6 md:py-24; }
+  .section-alt { @apply bg-heal-bg/45; }
+  .container-x { @apply mx-auto w-full max-w-6xl; }
+  .input {
+    @apply w-full rounded-2xl border border-ocean-light bg-white/80 px-4 py-3 text-sm text-ocean-ink placeholder:text-ocean-ink/50 focus:border-ocean-strong;
+  }
+}
+
+/* ---------- Fundal ---------- */
+.bg-aurora {
+  background: linear-gradient(120deg, #E3F3F4, #D4F2E2, #CBEAF0, #D4F2E2, #E3F3F4);
+  background-size: 300% 300%;
+  animation: gradientShift 40s ease-in-out infinite;
+}
+.blob { position: absolute; border-radius: 9999px; filter: blur(80px); opacity: .55; will-change: transform; }
+.blob-1 { background: #9FD6DE; width: 46vmax; height: 46vmax; top: -12vmax; left: -10vmax; animation: drift1 38s ease-in-out infinite; }
+.blob-2 { background: #3FBF8F; opacity: .32; width: 40vmax; height: 40vmax; bottom: -14vmax; right: -8vmax; animation: drift2 46s ease-in-out infinite; }
+.blob-3 { background: #1C8A9C; opacity: .18; width: 32vmax; height: 32vmax; top: 40%; left: 45%; animation: drift3 52s ease-in-out infinite; }
+.particle { position: absolute; border-radius: 9999px; background: radial-gradient(circle, rgba(255,255,255,.95), rgba(159,214,222,0) 70%); animation: floatUp linear infinite; }
+
+@keyframes gradientShift { 0%,100% { background-position: 0% 50%; } 50% { background-position: 100% 50%; } }
+@keyframes drift1 { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(8vw,6vh) scale(1.12); } }
+@keyframes drift2 { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(-9vw,-7vh) scale(1.1); } }
+@keyframes drift3 { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(-6vw,5vh) scale(1.2); } }
+@keyframes floatUp { from { transform: translateY(0); opacity: 0; } 15% { opacity: .9; } 85% { opacity: .7; } to { transform: translateY(-40vh); opacity: 0; } }
+@keyframes sway { 0%,100% { transform: rotate(var(--r, 0deg)); } 50% { transform: rotate(calc(var(--r, 0deg) + 4deg)); } }
+.leaf { animation: sway 14s ease-in-out infinite; transform-origin: bottom center; }
+
+/* ---------- Preloader ---------- */
+@keyframes wave { 0% { transform: scale(.55); opacity: .7; } 100% { transform: scale(1.7); opacity: 0; } }
+@keyframes halo { 0%,100% { transform: scale(1); opacity: .75; } 10% { transform: scale(1.06); opacity: 1; } 30% { transform: scale(1.03); opacity: .9; } }
+@keyframes ekg { 0% { stroke-dashoffset: 1; opacity: 1; } 85% { stroke-dashoffset: 0; opacity: 1; } 100% { stroke-dashoffset: 0; opacity: 0; } }
+@keyframes organPulse { 0%,100% { opacity: .35; transform: scale(1); } 50% { opacity: .75; transform: scale(1.12); } }
+@keyframes heartGlow { 0%,100% { opacity: .55; } 10% { opacity: 1; } 30% { opacity: .8; } }
+.wave-ring { animation: wave var(--beat) ease-out infinite; }
+.halo-ring { animation: halo var(--beat) ease-in-out infinite; }
+.ekg-line { stroke-dasharray: 1; animation: ekg var(--beat) linear infinite; }
+.organ { transform-box: fill-box; transform-origin: center; animation: organPulse 3.4s ease-in-out infinite; }
+
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { animation-duration: .01ms !important; animation-iteration-count: 1 !important; transition-duration: .01ms !important; }
+}
