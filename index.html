@@ -19,6 +19,22 @@
   </head>
   <body>
     <div id="root"></div>
+    <noscript>Activează JavaScript pentru a vedea site-ul.</noscript>
+    <script>
+      // Dacă aplicația nu pornește, arată eroarea în loc de pagină albă.
+      (function () {
+        function show(msg) {
+          setTimeout(function () {
+            var r = document.getElementById('root')
+            if (r && r.children.length === 0) {
+              r.innerHTML = '<div style="font-family:sans-serif;padding:24px;max-width:480px;margin:auto;color:#0B3B4A"><h1 style="font-size:22px">Site-ul nu a putut porni</h1><p>Reîncarcă pagina. Detalii pentru suport:</p><pre style="white-space:pre-wrap;font-size:12px;background:#fff8;padding:10px;border-radius:12px">' + String(msg).replace(/</g, '&lt;') + '</pre></div>'
+            }
+          }, 2500)
+        }
+        window.addEventListener('error', function (e) { show((e.message || 'eroare') + ' @ ' + (e.filename || '') + ':' + (e.lineno || '')) })
+        window.addEventListener('unhandledrejection', function (e) { show(e.reason) })
+      })()
+    </script>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
