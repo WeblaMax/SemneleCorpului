@@ -1,6 +1,7 @@
 import { lazy, Suspense, useEffect, useMemo } from 'react'
 import { motion } from 'framer-motion'
 import HeartFallback from './HeartFallback'
+import ErrorBoundary from './ErrorBoundary'
 
 const HeartScene = lazy(() => import('./HeartScene'))
 const DURATION = 3600
@@ -55,9 +56,11 @@ export default function Preloader({ onDone, reducedMotion }) {
             />
             <div className="relative h-52 w-52 sm:h-56 sm:w-56">
               {use3d ? (
-                <Suspense fallback={<HeartFallback />}>
-                  <HeartScene start={start} hasModel={HAS_HEART_MODEL} />
-                </Suspense>
+                <ErrorBoundary fallback={<HeartFallback />}>
+                  <Suspense fallback={<HeartFallback />}>
+                    <HeartScene start={start} hasModel={HAS_HEART_MODEL} />
+                  </Suspense>
+                </ErrorBoundary>
               ) : (
                 <HeartFallback />
               )}
