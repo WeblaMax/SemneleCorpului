@@ -1,25 +1,24 @@
 import { useState } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
 import { QUIZ, QUIZ_ANSWERS } from '../data/content'
-import { catalog, CURRENCY } from '../data/products'
-import { useCart } from '../context/CartContext'
+import { categoryName } from '../data/products'
 import SectionHeading from './SectionHeading'
 
+// Fiecare răspuns (0–3) dă puncte categoriilor întrebării; primele 2 categorii cu scor ≥ 1 sunt recomandate.
 function recommend(answers) {
-  const total = answers.reduce((a, b) => a + b, 0)
-  const top = answers.indexOf(Math.max(...answers))
-  const pack = total <= 4 ? 'pachet-esential' : total <= 9 ? 'pachet-complet' : 'pachet-premium'
-  const extra = { 0: 'oboseala-cronica', 2: 'dureri-membre', 1: 'somn-stres', 4: 'somn-stres', 3: 'probe' }[top]
-  return { pack, extra: answers[top] >= 2 ? extra : null }
+  const score = {}
+  answers.forEach((v, i) => QUIZ[i].categories.forEach((c) => { score[c] = (score[c] || 0) + v }))
+  const top = Object.entries(score).filter(([, v]) => v >= 1).sort((a, b) => b[1] - a[1]).slice(0, 2).map(([c]) => c)
+  return top.length ? top : ['imunitate', 'vitamine-minerale']
 }
 
-export default function Quiz() {
-  const { add } = useCart()
+export default function Quiz({ onPick }) {
   const [step, setStep] = useState(0)
   const [answers, setAnswers] = useState([])
   const done = step >= QUIZ.length
   const progress = Math.round((Math.min(step, QUIZ.length) / QUIZ.length) * 100)
   const res = done ? recommend(answers) : null
+  const pick = (c) => { onPick(c); document.getElementById('produse')?.scrollIntoView({ behavior: 'smooth' }) }
 
   const answer = (v) => { setAnswers((a) => [...a, v]); setStep((s) => s + 1) }
   const reset = () => { setAnswers([]); setStep(0) }
@@ -27,7 +26,7 @@ export default function Quiz() {
   return (
     <section id="quiz" className="section">
       <div className="container-x max-w-3xl">
-        <SectionHeading eyebrow="Test rapid" title="Ce semnal îți transmite corpul?" text="5 întrebări, sub un minut. La final îți recomandăm un pachet." />
+        <SectionHeading eyebrow="Test rapid" title="Ce semnal îți transmite corpul?" text="5 întrebări, sub un minut. La final îți recomandăm categoriile de produse potrivite." />
         <div className="glass p-6 sm:p-8">
           <div className="mb-6" aria-label={`Progres: ${progress}%`}>
             <div className="mb-1 flex justify-between text-xs font-medium"><span>{done ? 'Gata!' : `Întrebarea ${step + 1} din ${QUIZ.length}`}</span><span>{progress}%</span></div>
@@ -47,13 +46,9 @@ export default function Quiz() {
               </motion.div>
             ) : (
               <motion.div key="res" initial={{ opacity: 0, y: 16 }} animate={{ opacity: 1, y: 0 }} aria-live="polite">
-                <p className="text-sm font-semibold text-heal-dark">Recomandarea noastră</p>
-                <h3 className="mt-1 text-2xl font-bold">{catalog[res.pack].title}</h3>
-                <p className="mt-1 text-ocean-ink/80">{catalog[res.pack].tagline} – {catalog[res.pack].price} {CURRENCY}</p>
-                {res.extra && <p className="mt-3 rounded-2xl bg-heal-bg/70 p-3 text-sm">Pe lângă acesta, semnalele tale indică și <strong>{catalog[res.extra].title}</strong> (de la {catalog[res.extra].price} {CURRENCY}).</p>}
-                <div className="mt-6 flex flex-wrap gap-3">
-                  <button onClick={() => add(res.pack)} className="btn-primary">Adaugă pachetul în coș</button>
-                  {res.extra && <button onClick={() => add(res.extra)} className="btn-ghost">Adaugă și {catalog[res.extra].title}</button>}
+                <p className="text-sm font-semibold text-heal-dark">Îți recomandăm categoriile</p>
+                <div className="mt-3 flex flex-wrap gap-3">
+                  {res.map((c) => <button key={c} onClick={() => pick(c)} className="btn-primary">{categoryName[c]}</button>)}
                   <button onClick={reset} className="btn-ghost">Reia testul</button>
                 </div>
                 <p className="mt-4 text-xs text-ocean-ink/65">Rezultat orientativ, fără valoare de diagnostic.</p>

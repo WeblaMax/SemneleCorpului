@@ -6,8 +6,7 @@ import Preloader from './components/Preloader'
 import Header from './components/Header'
 import Hero from './components/Hero'
 import SystemsSection from './components/SystemsSection'
-import Services from './components/Services'
-import Packages from './components/Packages'
+import Products from './components/Products'
 import Quiz from './components/Quiz'
 import HowItWorks from './components/HowItWorks'
 import Reviews from './components/Reviews'
@@ -23,6 +22,9 @@ const seen = () => { try { return sessionStorage.getItem(SEEN) === '1' } catch {
 export default function App() {
   const [intro, setIntro] = useState(() => !seen())
   const [system, setSystem] = useState(null)
+  const [category, setCategory] = useState(null)
+  const pickSystem = (id) => { setSystem(id); setCategory(null) }
+  const pickCategory = (c) => { setSystem(null); setCategory(c) }
   const [route, setRoute] = useState(window.location.hash)
   const reduced = typeof window !== 'undefined' && window.matchMedia('(prefers-reduced-motion: reduce)').matches
 
@@ -53,10 +55,9 @@ export default function App() {
       ) : (
         <main>
           <Hero />
-          <SystemsSection selected={system} onSelect={setSystem} />
-          <Services filter={system} onClear={() => setSystem(null)} />
-          <Packages />
-          <Quiz />
+          <SystemsSection selected={system} onSelect={pickSystem} />
+          <Products system={system} category={category} onCategory={setCategory} onClearSystem={() => pickSystem(null)} />
+          <Quiz onPick={pickCategory} />
           <HowItWorks />
           <Reviews />
           <FAQ />

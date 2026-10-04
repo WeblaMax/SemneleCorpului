@@ -26,7 +26,7 @@ export default function CartDrawer() {
               <button autoFocus onClick={() => setOpen(false)} aria-label="Închide coșul" className="rounded-full p-2 hover:bg-white/60"><X className="h-5 w-5" /></button>
             </div>
             <div className="flex-1 space-y-3 overflow-y-auto p-5">
-              {lines.length === 0 && <p className="py-10 text-center text-ocean-ink/70">Coșul este gol. Adaugă o evaluare sau un pachet.</p>}
+              {lines.length === 0 && <p className="py-10 text-center text-ocean-ink/70">Coșul este gol. Adaugă produse din catalog.</p>}
               {lines.map(({ id, qty, product }) => (
                 <div key={id} className="glass flex items-center gap-3 p-3">
                   <div className="min-w-0 flex-1">

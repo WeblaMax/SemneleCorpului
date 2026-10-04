@@ -1,0 +1,2145 @@
+{
+ "categorii": [
+  {
+   "slug": "imunitate",
+   "nume": "Imunitate și respirație"
+  },
+  {
+   "slug": "inima-circulatie",
+   "nume": "Inimă și circulație"
+  },
+  {
+   "slug": "digestie-ficat",
+   "nume": "Digestie, ficat și detox"
+  },
+  {
+   "slug": "creier-somn",
+   "nume": "Creier, memorie și somn"
+  },
+  {
+   "slug": "sanatatea-femeii",
+   "nume": "Sănătatea femeii"
+  },
+  {
+   "slug": "sanatatea-barbatului",
+   "nume": "Sănătatea bărbatului"
+  },
+  {
+   "slug": "oase-articulatii",
+   "nume": "Oase și articulații"
+  },
+  {
+   "slug": "vitamine-minerale",
+   "nume": "Vitamine și minerale"
+  },
+  {
+   "slug": "antioxidanti-frumusete",
+   "nume": "Anti-age, antioxidanți și frumusețe"
+  },
+  {
+   "slug": "metabolism-greutate",
+   "nume": "Metabolism, greutate și glicemie"
+  },
+  {
+   "slug": "vedere",
+   "nume": "Vedere"
+  },
+  {
+   "slug": "copii",
+   "nume": "Copii"
+  },
+  {
+   "slug": "energie-tonus",
+   "nume": "Energie și tonus"
+  },
+  {
+   "slug": "igiena-uz-extern",
+   "nume": "Igienă și uz extern"
+  },
+  {
+   "slug": "casa-gradina",
+   "nume": "Casă și grădină"
+  }
+ ],
+ "produse": [
+  {
+   "id": "0335-bomboane-cu-ganoderma",
+   "cod": "0335",
+   "title": "Bomboane cu Ganoderma",
+   "category": "imunitate",
+   "type": "Bomboane",
+   "price": 250,
+   "short": "Bomboane cu Reishi și acerola pentru imunitate și vitalitate.",
+   "description": "Produs funcțional pentru susținerea zilnică a imunității, a energiei și a rezistenței la stres. Baza formulei este Ganoderma (Reishi), completată de dioscorea și acerola, sursă naturală de vitamina C.",
+   "benefits": [
+    "Susțin imunitatea",
+    "Susțin energia și vitalitatea",
+    "Ajută organismul să facă față stresului",
+    "Sursă naturală de vitamina C (acerola)"
+   ],
+   "composition": "Sorbitol, pulbere de Ganoderma (Reishi), pulbere de rizom de dioscorea, pulbere de cireșe acerola, stearat de magneziu",
+   "pack": "60 buc. × 0,5 g",
+   "usage": "Nu mai mult de 10 bomboane pe zi",
+   "warnings": "",
+   "image": "produse/01-imunitate/0335-bomboane-cu-ganoderma.jpg"
+  },
+  {
+   "id": "0006-capsule-ai-kan",
+   "cod": "0006",
+   "title": "Capsule Ai Kan",
+   "category": "imunitate",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă vegetală pentru întărirea imunității și refacere după boală.",
+   "description": "Ai Kan combină spori de Reishi, astragalus, caprifoi, ginseng roșu și cătină. Susține mecanismele naturale de apărare, rezistența la factorii virali și bacterieni și refacerea organismului după boală.",
+   "benefits": [
+    "Susține imunitatea celulară și umorală",
+    "Ajută la refacerea după răceli și boli",
+    "Efect antioxidant",
+    "Susține energia în stări de oboseală"
+   ],
+   "composition": "Pulbere din spori de Ganoderma, extract de astragalus, extract de caprifoi, extract de ginseng roșu, extract de cătină, amidon, stearat de magneziu",
+   "pack": "60 capsule × 360 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/01-imunitate/0006-capsule-ai-kan.jpg"
+  },
+  {
+   "id": "0001-capsule-cordyceps-plus",
+   "cod": "0001",
+   "title": "Capsule Cordyceps Plus",
+   "category": "imunitate",
+   "type": "Capsule",
+   "price": 590,
+   "short": "Adaptogen din ciuperca Cordyceps pentru imunitate, energie și rezistență la efort.",
+   "description": "Cordyceps este una dintre cele mai apreciate ciuperci din medicina tradițională chineză. Conține polizaharide, aminoacizi, micro- și macroelemente, precum și cordicepină. Formula susține imunitatea, funcția respiratorie și tonusul general al organismului.",
+   "benefits": [
+    "Susține răspunsul imunitar natural",
+    "Contribuie la buna funcționare a plămânilor și căilor respiratorii",
+    "Ajută la refacere după efort și stres",
+    "Sprijină energia și vitalitatea"
+   ],
+   "composition": "Pulbere de miceliu de Cordyceps",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/01-imunitate/0001-capsule-cordyceps-plus.jpg"
+  },
+  {
+   "id": "0003-capsule-reishi-plus",
+   "cod": "0003",
+   "title": "Capsule Reishi Plus",
+   "category": "imunitate",
+   "type": "Capsule",
+   "price": 590,
+   "short": "Reishi, „ciuperca longevității”, pentru imunitate, echilibru și protecție celulară.",
+   "description": "Reishi (Ganoderma) este folosită în medicina orientală de peste 3000 de ani. Sporii cu înveliș spart, combinați cu Cordyceps și ginseng, oferă polizaharide și triterpene care susțin sistemul imunitar, inima, sistemul nervos și capacitatea de adaptare a organismului.",
+   "benefits": [
+    "Echilibrează activitatea sistemului imunitar",
+    "Susține sănătatea inimii și a sistemului nervos",
+    "Contribuie la funcția respiratorie",
+    "Ajută organismul să se adapteze la stres"
+   ],
+   "composition": "Pulbere din spori de Reishi cu înveliș spart, pulbere de miceliu de Cordyceps, extract de rădăcină de ginseng",
+   "pack": "60 capsule × 300 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, între mese (nu mai târziu de ora 18:00)",
+   "warnings": "",
+   "image": "produse/01-imunitate/0003-capsule-reishi-plus.jpg"
+  },
+  {
+   "id": "0244-capsule-ting-pu",
+   "cod": "0244",
+   "title": "Capsule Ting Pu",
+   "category": "imunitate",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă vegetală pentru imunitate în sezonul răcelilor.",
+   "description": "Ting Pu este un complex din plante tradiționale pentru susținerea imunității și a căilor respiratorii superioare în sezonul rece. Combină forsythia, caprifoi, perilla, păpădie, rhodiola, lemn-dulce și mentă.",
+   "benefits": [
+    "Susține imunitatea în sezonul rece",
+    "Contribuie la confortul căilor respiratorii",
+    "Susține refacerea după răceală",
+    "Ajută la starea generală de bine"
+   ],
+   "composition": "Extract de fructe de forsythia, extract de boboci de caprifoi, extract de frunze de perilla, extract de sâmburi de caise amare, extract de semințe de ginkgo, extract de fritillaria, extract de păpădie, extract de houttuynia, extract și ulei de elsholtzia, extract de rhodiola, extract de lemn-dulce, extract de mentă, dextrină, dioxid de siliciu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "4 capsule de 3 ori pe zi; pentru copii doza se reduce",
+   "warnings": "",
+   "image": "produse/01-imunitate/0244-capsule-ting-pu.jpg"
+  },
+  {
+   "id": "0123-capsule-cu-miceliu-de-matsutake-plus",
+   "cod": "0123",
+   "title": "Capsule cu miceliu de Matsutake Plus",
+   "category": "imunitate",
+   "type": "Capsule",
+   "price": 590,
+   "short": "Complex de ciuperci medicinale pentru imunitate puternică și protecție antioxidantă.",
+   "description": "Matsutake, coama-leului, Reishi, ciuperca neagră de lemn, ginsengul și polenul de pin oferă un complex cu efect imunomodulator și adaptogen. Formula susține apărarea organismului, rezistența la factori nocivi din mediu și încetinirea îmbătrânirii.",
+   "benefits": [
+    "Susține și echilibrează sistemul imunitar",
+    "Ajută organismul în perioade de solicitare și convalescență",
+    "Contribuie la protecția celulelor împotriva stresului oxidativ",
+    "Susține vitalitatea și capacitatea de adaptare"
+   ],
+   "composition": "Extract de Matsutake, extract de coama-leului (Hericium), pulbere de Ganoderma, polen de pin, extract de rădăcină de ginseng, extract de ciuperci negre de lemn, extract de păducel, extract de sparanghel, stearat de magneziu",
+   "pack": "100 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/01-imunitate/0123-capsule-cu-miceliu-de-matsutake-plus.jpg"
+  },
+  {
+   "id": "0002-capsule-moi-feng-jiao-cu-propolis",
+   "cod": "0002",
+   "title": "Capsule moi Feng Jiao cu propolis",
+   "category": "imunitate",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Propolis natural pentru imunitate și protecție antioxidantă.",
+   "description": "Propolisul este un bioregulator natural bogat în flavonoide. Susține sistemul imunitar, regenerarea țesuturilor și protecția antioxidantă, fiind un aliat în sezonul rece și în perioadele de solicitare.",
+   "benefits": [
+    "Susține imunitatea și rezistența la infecții sezoniere",
+    "Proprietăți antioxidante datorită flavonoidelor",
+    "Contribuie la refacerea țesuturilor",
+    "Susține echilibrul general al organismului"
+   ],
+   "composition": "Propolis pulbere, ulei de soia, ceară de albine",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi după masă, cu apă caldă",
+   "warnings": "Nu se recomandă persoanelor alergice la produsele apicole.",
+   "image": "produse/01-imunitate/0002-capsule-moi-feng-jiao-cu-propolis.jpg"
+  },
+  {
+   "id": "0026-capsule-moi-ulei-de-usturoi",
+   "cod": "0026",
+   "title": "Capsule moi Ulei de usturoi",
+   "category": "imunitate",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Ulei de usturoi concentrat pentru imunitate și echilibrul florei intestinale.",
+   "description": "Uleiul de usturoi conține alicină, aliină și alți compuși sulfurați activi. Forma de capsulă moale asigură o asimilare rapidă, fără mirosul specific usturoiului. Susține apărarea naturală a organismului și sănătatea vaselor de sânge.",
+   "benefits": [
+    "Susține imunitatea",
+    "Contribuie la echilibrul florei intestinale",
+    "Susține sănătatea cardiovasculară",
+    "Ajută la menținerea nivelului normal al lipidelor din sânge"
+   ],
+   "composition": "Ulei de usturoi",
+   "pack": "60 capsule × 350 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, imediat după masă",
+   "warnings": "",
+   "image": "produse/01-imunitate/0026-capsule-moi-ulei-de-usturoi.jpg"
+  },
+  {
+   "id": "0103-ceai-qing-fei",
+   "cod": "0103",
+   "title": "Ceai Qing Fei",
+   "category": "imunitate",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai pentru plămâni sănătoși și respirație ușoară.",
+   "description": "Băutură funcțională pentru sistemul respirator și sănătatea plămânilor. Formula se bazează pe plante folosite tradițional pentru curățarea plămânilor și calmarea căilor respiratorii.",
+   "benefits": [
+    "Susține sănătatea plămânilor și a căilor respiratorii",
+    "Contribuie la curățarea căilor respiratorii",
+    "Calmează iritația căilor respiratorii",
+    "Susține imunitatea"
+   ],
+   "composition": "Ceai verde, flori de crizantemă, bulb de crin, houttuynia, semințe de caise, coajă roșie de mandarină",
+   "pack": "20 plicuri × 4 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute. Pentru copii doza se reduce",
+   "warnings": "",
+   "image": "produse/01-imunitate/0103-ceai-qing-fei.jpg"
+  },
+  {
+   "id": "0243-ceai-ting-pu",
+   "cod": "0243",
+   "title": "Ceai Ting Pu",
+   "category": "imunitate",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai din plante pentru căile respiratorii și apărarea naturală.",
+   "description": "Băutură funcțională din plante folosite tradițional în fitoterapia orientală pentru sistemul respirator și întărirea apărării naturale a organismului.",
+   "benefits": [
+    "Susține imunitatea în sezonul rece",
+    "Contribuie la confortul căilor respiratorii",
+    "Ajută la refacerea după răceală",
+    "Efect calmant pentru gât"
+   ],
+   "composition": "Boboci de caprifoi, păpădie, houttuynia și alte plante (listă de verificat pe ambalaj)",
+   "pack": "16 plicuri × 3,5 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "",
+   "image": "produse/01-imunitate/0243-ceai-ting-pu.jpg"
+  },
+  {
+   "id": "0063-capsule-coenzima-q10",
+   "cod": "0063",
+   "title": "Capsule Coenzima Q10",
+   "category": "inima-circulatie",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Coenzima Q10 pentru inimă și energie celulară.",
+   "description": "Coenzima Q10 este o substanță asemănătoare vitaminelor, esențială pentru producerea energiei în mitocondrii. Combinată cu astragalus, salvie chinezească și polen de pin, susține inima, circulația și protecția antioxidantă.",
+   "benefits": [
+    "Susține funcția normală a mușchiului inimii",
+    "Contribuie la producerea energiei celulare",
+    "Susține circulația sângelui",
+    "Protecție antioxidantă"
+   ],
+   "composition": "Extract de astragalus, extract de salvie chinezească, coenzima Q10, polen de pin, lactoză, amidon",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 1–2 ori pe zi",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0063-capsule-coenzima-q10.jpg"
+  },
+  {
+   "id": "0098-capsule-nao-luo-tong",
+   "cod": "0098",
+   "title": "Capsule Nao Luo Tong",
+   "category": "inima-circulatie",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Sprijin pentru circulația cerebrală și coronariană.",
+   "description": "Nao Luo Tong este un fitocomplex pentru sistemul cardiovascular și cerebrovascular. Salvia chinezească, angelica, păducelul, pseudo-ginsengul, curcuma, șofranul și sporii de Reishi susțin circulația sângelui la nivelul creierului și al inimii.",
+   "benefits": [
+    "Susține circulația cerebrală și coronariană",
+    "Contribuie la fluiditatea normală a sângelui",
+    "Susține sănătatea vaselor de sânge",
+    "Susține memoria și concentrarea"
+   ],
+   "composition": "Extract de rădăcină de salvie chinezească, extract de angelică chinezească, extract de păducel, extract de pseudo-ginseng, extract de curcuma, extract de flori de șofrănel, pulbere din spori de Ganoderma, stearat de magneziu",
+   "pack": "30 capsule × 350 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi",
+   "warnings": "Nu se asociază cu anticoagulante fără avizul medicului.",
+   "image": "produse/02-inima-circulatie/0098-capsule-nao-luo-tong.jpg"
+  },
+  {
+   "id": "0087-capsule-qing-xue",
+   "cod": "0087",
+   "title": "Capsule Qing Xue",
+   "category": "inima-circulatie",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex pentru colesterol echilibrat și circulație sănătoasă.",
+   "description": "Qing Xue combină drojdie de orez roșu, salvie chinezească, lecitină din soia, astragalus și păducel. Susține sistemul cardiovascular, nivelul normal al colesterolului și microcirculația inimii și a creierului.",
+   "benefits": [
+    "Contribuie la menținerea nivelului normal de colesterol",
+    "Susține microcirculația inimii și a creierului",
+    "Susține elasticitatea vaselor de sânge",
+    "Efect tonic general"
+   ],
+   "composition": "Drojdie de orez roșu, extract de salvie chinezească, lecitină din soia, extract de astragalus, extract de păducel",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 2 ori pe zi",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0087-capsule-qing-xue.jpg"
+  },
+  {
+   "id": "0005-capsule-tian-xin-wan",
+   "cod": "0005",
+   "title": "Capsule Tian Xin Wan",
+   "category": "inima-circulatie",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Sprijin vegetal pentru inimă, vase de sânge și circulație.",
+   "description": "Tian Xin Wan este o formulă pe bază de pseudo-ginseng (Panax notoginseng) și salvie chinezească (Danshen), creată pentru susținerea inimii și a circulației sângelui.",
+   "benefits": [
+    "Susține circulația normală a sângelui",
+    "Contribuie la buna funcționare a mușchiului inimii",
+    "Ajută la menținerea elasticității vaselor",
+    "Susține un nivel normal al lipidelor din sânge"
+   ],
+   "composition": "Extract de rădăcină de pseudo-ginseng, extract de rădăcină de salvie chinezească (Danshen) și alte extracte vegetale (listă de verificat pe ambalaj)",
+   "pack": "30 capsule × 300 mg",
+   "usage": "1 capsulă de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0005-capsule-tian-xin-wan.jpg"
+  },
+  {
+   "id": "0122-capsule-cu-miceliu-de-ciuperca-neagra-de-lemn",
+   "cod": "0122",
+   "title": "Capsule cu miceliu de ciupercă neagră de lemn",
+   "category": "inima-circulatie",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex natural pentru vase de sânge sănătoase și circulație bună.",
+   "description": "Ciuperca neagră de lemn (urechea-lemnului), drojdia de orez roșu, shiitake, ginsengul și afinele formează un complex dedicat sistemului cardiovascular. Susține circulația sângelui, tonusul vaselor și un profil lipidic echilibrat.",
+   "benefits": [
+    "Susține circulația sângelui și elasticitatea vaselor",
+    "Contribuie la menținerea nivelului normal de colesterol",
+    "Sprijină tensiunea arterială în limite normale",
+    "Susține circulația cerebrală, memoria și concentrarea"
+   ],
+   "composition": "Extract de drojdie de orez roșu, miceliu de ciupercă neagră de lemn, pulbere de shiitake, extract de rădăcină de ginseng, extract de afine, stearat de magneziu",
+   "pack": "100 capsule × 500 mg",
+   "usage": "2–3 capsule de 2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0122-capsule-cu-miceliu-de-ciuperca-neagra-de-lemn.jpg"
+  },
+  {
+   "id": "0024-capsule-moi-ulei-de-peste-oceanic",
+   "cod": "0024",
+   "title": "Capsule moi Ulei de pește oceanic",
+   "category": "inima-circulatie",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Omega-3 (EPA și DHA) pentru inimă, creier și vase de sânge.",
+   "description": "Uleiul de pește de adâncime oferă acizi grași Omega-3 esențiali, pe care organismul nu îi poate produce, precum și vitaminele A, D și E. Susține sistemul cardiovascular, creierul și vederea.",
+   "benefits": [
+    "Contribuie la funcționarea normală a inimii (EPA și DHA)",
+    "Susține menținerea nivelului normal al trigliceridelor",
+    "Contribuie la funcția normală a creierului și a vederii",
+    "Susține imunitatea"
+   ],
+   "composition": "Ulei de pește oceanic (EPA 260 mg / DHA 400 mg la 2 capsule), vitamina E",
+   "pack": "100 capsule × 1000 mg",
+   "usage": "1–2 capsule pe zi după masă, cu apă caldă",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0024-capsule-moi-ulei-de-peste-oceanic.jpg"
+  },
+  {
+   "id": "0113-ceai-antilipidic",
+   "cod": "0113",
+   "title": "Ceai Antilipidic",
+   "category": "inima-circulatie",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai din plante pentru vase curate și colesterol echilibrat.",
+   "description": "Băutură funcțională din plante folosite tradițional în medicina orientală pentru curățarea vaselor, circulație și menținerea nivelului normal al lipidelor din sânge.",
+   "benefits": [
+    "Susține metabolismul normal al lipidelor",
+    "Contribuie la elasticitatea vaselor",
+    "Susține circulația sângelui",
+    "Susține tensiunea arterială normală"
+   ],
+   "composition": "Frunze de gynostemma, rizom purificat de rehmannia, ceai verde, frunze de lotus alb, rizom de he shou wu, semințe de cassia tora",
+   "pack": "40 plicuri × 2 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "",
+   "image": "produse/02-inima-circulatie/0113-ceai-antilipidic.jpg"
+  },
+  {
+   "id": "0332-bomboane-pentru-sanatatea-stomacului",
+   "cod": "0332",
+   "title": "Bomboane pentru sănătatea stomacului",
+   "category": "digestie-ficat",
+   "type": "Bomboane",
+   "price": 250,
+   "short": "Bomboane cu plante pentru digestie și protecția mucoasei gastrice.",
+   "description": "Produs funcțional pentru susținerea blândă a sistemului digestiv și protecția mucoasei stomacului. Combină păducel, coajă de mandarină, coama-leului, dioscorea, orz încolțit și fucoidan.",
+   "benefits": [
+    "Susțin digestia",
+    "Contribuie la protecția mucoasei gastrice",
+    "Reduc senzația de greutate după masă",
+    "Susțin apetitul normal"
+   ],
+   "composition": "Sorbitol, maltodextrină, pulbere de păducel, pulbere de coajă de mandarină, acid DL-malic, aromă, pulbere de coama-leului (Hericium), pulbere de rizom de dioscorea, pulbere de orz încolțit, stearat de magneziu, fucoidan",
+   "pack": "60 buc. × 0,5 g",
+   "usage": "Nu mai mult de 10 bomboane pe zi",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0332-bomboane-pentru-sanatatea-stomacului.jpg"
+  },
+  {
+   "id": "2120-bautura-chang-tingting",
+   "cod": "2120",
+   "title": "Băutură Chang Tingting",
+   "category": "digestie-ficat",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Băutură cu fibre pentru curățare blândă și tranzit regulat.",
+   "description": "Complex funcțional pentru curățarea blândă și sănătatea intestinului. Fibrele prebiotice (dextrină rezistentă, inulină), lăstarii de orz și plantele tradiționale susțin peristaltismul și microflora.",
+   "benefits": [
+    "Contribuie la tranzitul intestinal regulat",
+    "Hrănesc bacteriile benefice din intestin",
+    "Susțin curățarea blândă a intestinului",
+    "Reduc disconfortul abdominal"
+   ],
+   "composition": "Dextrină rezistentă, pulbere de lăstari de orz, acid citric, inulină, peptide de albumină, păpădie, pălămidă, lemn-dulce, goji, crizantemă, sucraloză, xilooligozaharide, celuloză microcristalină, dioxid de siliciu, citrat de sodiu",
+   "pack": "6 plicuri × 3,5 g",
+   "usage": "Conținutul unui plic se amestecă în 400–450 ml apă caldă. Adulți: 1 plic pe zi",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/2120-bautura-chang-tingting.jpg"
+  },
+  {
+   "id": "2119-bautura-tiu-qingqing",
+   "cod": "2119",
+   "title": "Băutură Tiu Qingqing",
+   "category": "digestie-ficat",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Complex detox pentru protecția ficatului după consumul de alcool.",
+   "description": "Băutură funcțională detox pentru protecția și refacerea ficatului, pe bază de extracte vegetale (lemn-dulce, pueraria, curcuma, dud, goji, Hovenia) și antioxidanți. Susține metabolizarea alcoolului și ameliorează starea de după.",
+   "benefits": [
+    "Susține funcția de detoxifiere a ficatului",
+    "Ajută la metabolizarea alcoolului",
+    "Ameliorează disconfortul de a doua zi",
+    "Protecție antioxidantă"
+   ],
+   "composition": "Pulbere de struguri, oligopeptide din porumb, rădăcină de lemn-dulce, fructe de Hovenia, rădăcină de pueraria, curcuma, dud, goji, acid citric, acid DL-malic, acid ascorbic, aspartam, chitosan, polipeptide din stridii și alte ingrediente",
+   "pack": "6 plicuri × 3 g",
+   "usage": "1 plic înainte și 1 plic după consumul de alcool",
+   "warnings": "Conține aspartam (sursă de fenilalanină) și crustacee/moluște (alergeni).",
+   "image": "produse/03-digestie-ficat/2119-bautura-tiu-qingqing.jpg"
+  },
+  {
+   "id": "0148-bautura-instant-cu-ferment-de-afine",
+   "cod": "0148",
+   "title": "Băutură instant cu ferment de afine",
+   "category": "digestie-ficat",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Ferment din fructe și legume cu afine pentru digestie ușoară.",
+   "description": "Complex fermentat funcțional pentru digestie, imunitate și metabolism celular. Combină antioxidanții naturali din fructe de pădure cu enzime vegetale active (protează, amilază, lipază) și prebiotice.",
+   "benefits": [
+    "Susține digestia proteinelor, grăsimilor și glucidelor",
+    "Reduce balonarea și senzația de greutate după masă",
+    "Susține asimilarea vitaminelor și mineralelor",
+    "Protecție antioxidantă"
+   ],
+   "composition": "Dextrină rezistentă, pulbere de fermenți din fructe și legume (peste 30%: maltodextrină, stahioză, pulbere de ananas, papaya, măr, kiwi, lămâie, protează, alfa-amilază, lipază), fructooligozaharide, eritritol, pulbere de afine și alte ingrediente",
+   "pack": "15 plicuri × 6 g",
+   "usage": "1 plic pe zi, la o oră după micul dejun sau după o masă copioasă, amestecat cu apă caldă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0148-bautura-instant-cu-ferment-de-afine.jpg"
+  },
+  {
+   "id": "0039-capsule-aloe-vera-plus",
+   "cod": "0039",
+   "title": "Capsule Aloe Vera Plus",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Aloe vera cu semințe de struguri pentru digestie și protecția mucoaselor.",
+   "description": "Complex vegetal bogat în vitamine, minerale și aminoacizi. Aloe vera susține sănătatea sistemului digestiv și protecția mucoasei gastrice, iar extractul de semințe de struguri și vitamina E aduc protecție antioxidantă.",
+   "benefits": [
+    "Susține sănătatea stomacului și a intestinului",
+    "Contribuie la tranzitul intestinal normal",
+    "Susține eliminarea normală a bilei",
+    "Protecție antioxidantă"
+   ],
+   "composition": "Pulbere ultrafină de aloe vera, extract din semințe de struguri, vitamina E, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule o dată pe zi, între mese",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0039-capsule-aloe-vera-plus.jpg"
+  },
+  {
+   "id": "0028-capsule-chitosan",
+   "cod": "0028",
+   "title": "Capsule Chitosan",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Sorbent natural pentru curățarea organismului și digestie echilibrată.",
+   "description": "Chitosanul este un sorbent natural obținut din chitina crustaceelor. Leagă și ajută la eliminarea toxinelor și a grăsimilor în exces, susține curățarea intestinului și metabolismul lipidic.",
+   "benefits": [
+    "Ajută la legarea și eliminarea toxinelor",
+    "Susține curățarea intestinului",
+    "Contribuie la metabolismul normal al grăsimilor",
+    "Susține drenajul limfatic"
+   ],
+   "composition": "Chitosan, stearat de magneziu",
+   "pack": "60 capsule × 400 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi",
+   "warnings": "Nu se recomandă persoanelor alergice la crustacee.",
+   "image": "produse/03-digestie-ficat/0028-capsule-chitosan.jpg"
+  },
+  {
+   "id": "0078-capsule-gan-bao",
+   "cod": "0078",
+   "title": "Capsule Gan Bao",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Fitocomplex pentru protecția ficatului și a căilor biliare.",
+   "description": "Gan Bao susține ficatul și sistemul biliar: protejează celulele hepatice, susține funcția de detoxifiere și formarea și eliminarea normală a bilei.",
+   "benefits": [
+    "Susține funcția normală a ficatului",
+    "Contribuie la refacerea celulelor hepatice",
+    "Susține secreția și eliminarea bilei",
+    "Sprijină detoxifierea naturală"
+   ],
+   "composition": "Extract de pălămidă, extract de schizandra, extract de rădăcină de salvie chinezească, extract de rădăcină de lemn-dulce, extract de rădăcină de bupleurum, amidon, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 2 ori pe zi",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0078-capsule-gan-bao.jpg"
+  },
+  {
+   "id": "0041-capsule-jiu-pu",
+   "cod": "0041",
+   "title": "Capsule Jiu Pu",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex vegetal pentru ficat, vezica biliară și detoxifiere.",
+   "description": "Jiu Pu combină crizantemă, păpădie, angelică, dioscorea, goji și semințe de cassia. Susține refacerea celulelor hepatice, funcția naturală de detoxifiere și formarea și eliminarea bilei.",
+   "benefits": [
+    "Susține funcția ficatului și a vezicii biliare",
+    "Contribuie la detoxifierea naturală",
+    "Susține microcirculația hepatică",
+    "Contribuie la sănătatea ochilor"
+   ],
+   "composition": "Extract de flori de crizantemă, extract de păpădie, extract de rădăcină de angelică, extract de rizom de dioscorea, extract de goji, extract de semințe de cassia, dextrină, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 1–2 ori pe zi, între mese, cu apă caldă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0041-capsule-jiu-pu.jpg"
+  },
+  {
+   "id": "0049-capsule-qing-chong",
+   "cod": "0049",
+   "title": "Capsule Qing Chong",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă vegetală pentru curățarea organismului și echilibrul intestinal.",
+   "description": "Qing Chong este o formulă din plante pentru curățarea organismului de paraziți, susținerea ficatului, a intestinului și a sistemului imunitar. Ajută la refacerea microbiotei sănătoase.",
+   "benefits": [
+    "Susține curățarea intestinului",
+    "Contribuie la refacerea microbiotei",
+    "Susține funcția ficatului și detoxifierea",
+    "Susține imunitatea"
+   ],
+   "composition": "Extract de astragalus, extract de lophatherum și alte extracte vegetale (listă de verificat pe ambalaj), stearat de magneziu",
+   "pack": "30 capsule × 500 mg",
+   "usage": "2–3 capsule de 2 ori pe zi, cu 30 de minute înainte de masă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0049-capsule-qing-chong.jpg"
+  },
+  {
+   "id": "0052-capsule-zhen-tong",
+   "cod": "0052",
+   "title": "Capsule Zhen Tong",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Sprijin vegetal blând pentru tranzit intestinal regulat.",
+   "description": "Zhen Tong este un complex din plante pentru susținerea intestinului: ginseng roșu, he shou wu, aloe, cassia și senna. Ajută la un tranzit regulat și confortabil și susține detoxifierea naturală.",
+   "benefits": [
+    "Contribuie la tranzitul intestinal normal",
+    "Susține peristaltismul intestinal",
+    "Reduce disconfortul și balonarea",
+    "Susține detoxifierea naturală"
+   ],
+   "composition": "Extract de rădăcină de ginseng roșu, extract de rădăcină de he shou wu, extract de aloe, extract de semințe de cassia, extract de frunze de senna, dextrină, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, dimineața și seara, între mese",
+   "warnings": "Nu se folosește pe termen lung fără avizul medicului.",
+   "image": "produse/03-digestie-ficat/0052-capsule-zhen-tong.jpg"
+  },
+  {
+   "id": "0121-capsule-cu-miceliu-de-ciuperca-hou-tou",
+   "cod": "0121",
+   "title": "Capsule cu miceliu de ciupercă Hou Tou",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex pe bază de ciuperci medicinale pentru stomac, intestin și digestie.",
+   "description": "Formula combină ciuperca Hou Tou (coama-leului) cu alte ciuperci medicinale, ginseng, păducel și enzime vegetale. Susține mucoasa gastrică și intestinală, digestia și metabolismul, fiind potrivită pentru disconfort digestiv frecvent.",
+   "benefits": [
+    "Susține protecția și refacerea mucoasei stomacului și intestinului",
+    "Contribuie la o digestie normală și reduce balonarea",
+    "Sprijină activitatea enzimatică a pancreasului",
+    "Contribuie la metabolismul normal al glucidelor"
+   ],
+   "composition": "Extract de rizom de dioscorea, extract de coajă de citrice, extract de păducel, extract de malț, extract de rădăcină de ginseng, extract de ciupercă Hou Tou, extract de ciupercă Ditui, extract de ciuperci albe de lemn, extract de shiitake, extract de urechea-lemnului neagră, papaină, polen de pin, stearat de magneziu",
+   "pack": "100 capsule × 500 mg",
+   "usage": "1–2 capsule de 2–3 ori pe zi",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0121-capsule-cu-miceliu-de-ciuperca-hou-tou.jpg"
+  },
+  {
+   "id": "0124-capsule-cu-miceliu-de-ciuperca-shiitake",
+   "cod": "0124",
+   "title": "Capsule cu miceliu de ciupercă Shiitake",
+   "category": "digestie-ficat",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex cu shiitake pentru ficat, vezica biliară și detoxifiere.",
+   "description": "Shiitake, combinată cu goji, armurariu, spori de Reishi, schizandra, salvie și lemn-dulce, susține funcția ficatului și a căilor biliare. Formula ajută procesele naturale de detoxifiere și o digestie echilibrată.",
+   "benefits": [
+    "Susține funcția normală a ficatului",
+    "Contribuie la secreția și eliminarea normală a bilei",
+    "Sprijină procesele naturale de detoxifiere",
+    "Susține imunitatea și metabolismul"
+   ],
+   "composition": "Extract de shiitake, extract de goji, extract de armurariu, pulbere din spori de Ganoderma, polen de pin, extract de schizandra, extract de rădăcină de salvie, extract de rădăcină de lemn-dulce și alte ingrediente (listă de verificat pe ambalaj)",
+   "pack": "100 capsule × 500 mg",
+   "usage": "2 capsule de 1–2 ori pe zi",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0124-capsule-cu-miceliu-de-ciuperca-shiitake.jpg"
+  },
+  {
+   "id": "0012-ceai-ku-ding",
+   "cod": "0012",
+   "title": "Ceai Ku Ding",
+   "category": "digestie-ficat",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai tonic cu ginseng roșu și Reishi pentru curățare și ficat.",
+   "description": "Ku Ding este un ceai tonic foarte apreciat în tradiția orientală pentru proprietățile sale de curățare. Este bogat în antioxidanți naturali și susține ficatul, digestia și imunitatea.",
+   "benefits": [
+    "Susține funcția de detoxifiere a ficatului",
+    "Protecție antioxidantă",
+    "Susține imunitatea în sezonul rece",
+    "Efect tonic"
+   ],
+   "composition": "Ceai Ku Ding, flori de camelie, rădăcină de ginseng roșu, ciupercă Reishi",
+   "pack": "20 plicuri × 2,5 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute; plicul se poate reinfuza",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0012-ceai-ku-ding.jpg"
+  },
+  {
+   "id": "0035-ceai-qing-chang",
+   "cod": "0035",
+   "title": "Ceai Qing Chang",
+   "category": "digestie-ficat",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai pentru curățarea intestinului și o digestie bună.",
+   "description": "Ceai pentru susținerea metabolismului, curățarea blândă a organismului și întărirea imunității. Combină spirulină, cassia, păducel, semințe de lacrima-lui-Iov și ceai verde.",
+   "benefits": [
+    "Susține curățarea intestinului",
+    "Susține digestia",
+    "Contribuie la un metabolism echilibrat",
+    "Susține imunitatea"
+   ],
+   "composition": "Extract de spirulină, semințe de cassia tora, păducel, semințe de lacrima-lui-Iov (coix), ceai verde",
+   "pack": "16 plicuri × 4 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0035-ceai-qing-chang.jpg"
+  },
+  {
+   "id": "0169-complex-de-afine-in-tablete-ferment",
+   "cod": "0169",
+   "title": "Complex de afine în tablete (ferment)",
+   "category": "digestie-ficat",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Afine și ferment din fructe și legume pentru digestie ușoară.",
+   "description": "Produs care combină afinele cu un complex de fermenți naturali din fructe și legume și fibre solubile. Susține digestia, echilibrul microbiotei intestinale și detoxifierea blândă.",
+   "benefits": [
+    "Susține digestia și asimilarea hranei",
+    "Contribuie la echilibrul florei intestinale",
+    "Susține detoxifierea blândă",
+    "Contribuie la un metabolism echilibrat"
+   ],
+   "composition": "Pulbere de afine, ferment complex (pepene galben, castravete amar, dovleac, cartof, țelină, porumb, lămâie, ananas, struguri, roșie, fructul pasiunii, căpșuni, afine, mango, piersică, merișoare, noni, fibre solubile, papaya, steviozidă, manitol, izomaltitol, vitamina C), zahăr, maltodextrină și excipienți",
+   "pack": "100 tablete × 1000 mg",
+   "usage": "1–2 tablete de 2–3 ori pe zi după masă; se sug sau se mestecă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0169-complex-de-afine-in-tablete-ferment.jpg"
+  },
+  {
+   "id": "0025-fibre-alimentare-in-tablete",
+   "cod": "0025",
+   "title": "Fibre alimentare în tablete",
+   "category": "digestie-ficat",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Fibre solubile și insolubile pentru tranzit intestinal regulat.",
+   "description": "Tabletele conțin fibre alimentare solubile și insolubile în proporție echilibrată, obținute din legume, fructe și cereale, plus făină de ovăz. Susțin tranzitul intestinal, microbiota benefică și senzația de sațietate.",
+   "benefits": [
+    "Contribuie la tranzitul intestinal normal",
+    "Hrănesc bacteriile benefice din intestin",
+    "Susțin eliminarea reziduurilor metabolice",
+    "Contribuie la un nivel echilibrat al glicemiei și colesterolului"
+   ],
+   "composition": "Fibre alimentare 385 mg, făină de ovăz 245 mg, celuloză microcristalină 70 mg",
+   "pack": "60 tablete × 700 mg",
+   "usage": "Adulți: 1–2 tablete de 1–2 ori pe zi; copii: ½–1 tabletă pe zi. Se mestecă bine și se beau cel puțin 300 ml de apă caldă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0025-fibre-alimentare-in-tablete.jpg"
+  },
+  {
+   "id": "0149-pudra-probiotica",
+   "cod": "0149",
+   "title": "Pudră probiotică",
+   "category": "digestie-ficat",
+   "type": "Pudră",
+   "price": 420,
+   "short": "Simbiotic cu peste 10 miliarde UFC pentru o floră intestinală sănătoasă.",
+   "description": "Complex simbiotic modern pentru refacerea și menținerea florei intestinale sănătoase. Combină o concentrație ridicată de culturi probiotice vii cu fibre prebiotice care le hrănesc.",
+   "benefits": [
+    "Contribuie la echilibrul florei intestinale",
+    "Susține digestia și tranzitul",
+    "Util după tratamente cu antibiotice",
+    "Susține imunitatea"
+   ],
+   "composition": "Lactobacillus acidophilus, bifidobacterii lactice, Bifidobacterium longum, Streptococcus thermophilus, polidextroză (fibre solubile), maltodextrină, oligofructoză. Peste 10 miliarde UFC/plic",
+   "pack": "15 plicuri × 6 g",
+   "usage": "1 plic pe zi dizolvat în 200 ml apă (max. 40 °C)",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0149-pudra-probiotica.jpg"
+  },
+  {
+   "id": "0075-tablete-tian-wei",
+   "cod": "0075",
+   "title": "Tablete Tian Wei",
+   "category": "digestie-ficat",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Fitocomplex pentru stomac sănătos și digestie confortabilă.",
+   "description": "Tian Wei este o formulă inspirată de medicina tradițională chineză pentru stomac și splină. Susține digestia, protejează mucoasa gastrică și reduce disconfortul după masă.",
+   "benefits": [
+    "Susține digestia normală",
+    "Contribuie la protecția mucoasei gastrice",
+    "Reduce senzația de greutate după masă",
+    "Susține motilitatea stomacului și a intestinului"
+   ],
+   "composition": "Ignamă chinezească, extract de păducel, manitol, xilitol, extract de malț, extract de coajă uscată de mandarină, stearat de magneziu",
+   "pack": "30 tablete × 800 mg",
+   "usage": "Copii 2–4 ani: ½ tabletă; copii 5–14 ani: 1 tabletă; adulți: 1–2 tablete de 2 ori pe zi. Se mestecă sau se sug, apoi se bea apă caldă",
+   "warnings": "",
+   "image": "produse/03-digestie-ficat/0075-tablete-tian-wei.jpg"
+  },
+  {
+   "id": "0033-bautura-instant-fu-he-shui",
+   "cod": "0033",
+   "title": "Băutură instant Fu He Shui",
+   "category": "creier-somn",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Băutură nutritivă pentru creier, sistem nervos și oase.",
+   "description": "Complex nutritiv care combină măduvă de iac, ginseng american, lecitină și proteine vegetale. Susține nutriția creierului și a sistemului nervos, refacerea și sănătatea aparatului locomotor.",
+   "benefits": [
+    "Susține nutriția creierului și a sistemului nervos",
+    "Contribuie la creșterea și dezvoltarea copiilor",
+    "Susține refacerea organismului",
+    "Susține oasele și articulațiile"
+   ],
+   "composition": "Pulbere de măduvă osoasă de iac, extract de ginseng american, lecitină din soia, proteină din arahide, făină de porumb, făină de orez, izolat proteic din soia, carbonat de calciu precipitat, xilitol, caragenan, aromă",
+   "pack": "24 plicuri × 15 g",
+   "usage": "1 plic pe zi dizolvat în apă fierbinte (60–80 °C)",
+   "warnings": "Conține soia și arahide (alergeni).",
+   "image": "produse/04-creier-somn/0033-bautura-instant-fu-he-shui.jpg"
+  },
+  {
+   "id": "0042-capsule-an-shen",
+   "cod": "0042",
+   "title": "Capsule An Shen",
+   "category": "creier-somn",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă naturală pentru somn odihnitor și calm interior.",
+   "description": "An Shen combină GABA, ashwagandha, eleuterococ, jujube, gynostemma, șofran, vitamina B6 și melatonină. Ajută la adormire, la un somn mai profund și la refacerea după stres.",
+   "benefits": [
+    "Ajută la adormire mai rapidă",
+    "Contribuie la un somn profund și odihnitor",
+    "Susține calmul și reduce tensiunea nervoasă",
+    "Sprijină refacerea după stres"
+   ],
+   "composition": "Acid gama-aminobutiric (GABA), extract de rădăcină de ashwagandha, extract de eleuterococ, extract de semințe de jujube, extract de gynostemma, melatonină, vitamina B6, extract de șofran, dextrină, dioxid de siliciu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule o dată pe zi, cu 30–40 de minute înainte de culcare",
+   "warnings": "Conține melatonină; nu se recomandă femeilor însărcinate sau care alăptează.",
+   "image": "produse/04-creier-somn/0042-capsule-an-shen.jpg"
+  },
+  {
+   "id": "0037-capsule-ginkgo-biloba",
+   "cod": "0037",
+   "title": "Capsule Ginkgo Biloba",
+   "category": "creier-somn",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Extract de Ginkgo pentru memorie, concentrare și circulație cerebrală.",
+   "description": "Ginkgo Biloba este unul dintre cei mai vechi copaci de pe Pământ. Extractul din frunzele sale susține funcția creierului, circulația cerebrală și periferică și sănătatea sistemului cardiovascular.",
+   "benefits": [
+    "Susține memoria și concentrarea",
+    "Contribuie la circulația cerebrală normală",
+    "Susține circulația periferică",
+    "Efect antioxidant"
+   ],
+   "composition": "Extract de Ginkgo biloba, amidon de porumb, dextrină, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule o dată pe zi",
+   "warnings": "Nu se asociază cu anticoagulante fără avizul medicului.",
+   "image": "produse/04-creier-somn/0037-capsule-ginkgo-biloba.jpg"
+  },
+  {
+   "id": "0360-capsule-pqq-mitogen",
+   "cod": "0360",
+   "title": "Capsule PQQ MitoGen",
+   "category": "creier-somn",
+   "type": "Capsule",
+   "price": 890,
+   "short": "PQQ și Q10 pentru energia mitocondriilor, creier și concentrare.",
+   "description": "Complex modern pentru metabolismul energetic, creier și sistemul nervos. PQQ și coenzima Q10 susțin mitocondriile, iar fosfatidilserina, ginkgo, Omega-3 și vitaminele B susțin memoria și concentrarea.",
+   "benefits": [
+    "Susține energia celulară (mitocondrii)",
+    "Contribuie la memorie și concentrare",
+    "Protecție antioxidantă a neuronilor",
+    "Reduce oboseala fizică și mentală"
+   ],
+   "composition": "PQQ (sare disodică de pirrolochinolinchinonă), coenzima Q10, fosfatidilserină, acid N-acetilneuraminic, extract de ginkgo biloba, ulei de pește, extract de astragalus, antociani din afine, extract de rozmarin, extract de yerba mate, polipeptide din nucă, vitamina B6, acid folic, vitamina B12, celuloză microcristalină, stearat de magneziu, sorbitol",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1 capsulă o dată pe zi, în timpul mesei",
+   "warnings": "",
+   "image": "produse/04-creier-somn/0360-capsule-pqq-mitogen.jpg"
+  },
+  {
+   "id": "0023-capsule-moi-lecitina",
+   "cod": "0023",
+   "title": "Capsule moi Lecitină",
+   "category": "creier-somn",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Lecitină pentru creier, ficat și inimă.",
+   "description": "Lecitina în capsule moi se asimilează rapid și complet. Este o sursă de fosfolipide care hrănesc celulele nervoase, susțin funcția ficatului și metabolismul lipidelor.",
+   "benefits": [
+    "Susține memoria, atenția și funcția cognitivă",
+    "Contribuie la protecția și buna funcționare a ficatului",
+    "Susține metabolismul normal al grăsimilor",
+    "Contribuie la sănătatea cardiovasculară"
+   ],
+   "composition": "Lecitină, acid linolenic",
+   "pack": "100 capsule × 1200 mg",
+   "usage": "1–2 capsule pe zi după micul dejun, cu apă caldă",
+   "warnings": "",
+   "image": "produse/04-creier-somn/0023-capsule-moi-lecitina.jpg"
+  },
+  {
+   "id": "0083-capsule-femeia-sanatoasa",
+   "cod": "0083",
+   "title": "Capsule Femeia Sănătoasă",
+   "category": "sanatatea-femeii",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Sprijin natural pentru femei în premenopauză și menopauză.",
+   "description": "Complex pentru susținerea organismului feminin în perioada schimbărilor hormonale. Izoflavonele din soia, gelatina ejiao, soia neagră, angelica și sporii de Reishi ajută la echilibrul hormonal, tonus și o stare de bine.",
+   "benefits": [
+    "Susține echilibrul hormonal în menopauză",
+    "Ajută la reducerea frecvenței bufeurilor",
+    "Contribuie la echilibrul emoțional și un somn bun",
+    "Susține sănătatea oaselor și a pielii"
+   ],
+   "composition": "Izoflavone din soia, gelatină din piele de măgar (ejiao), boabe negre de soia, extract de angelică, pulbere din spori de Ganoderma, dextrină, stearat de magneziu",
+   "pack": "90 capsule × 300 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi",
+   "warnings": "",
+   "image": "produse/05-sanatatea-femeii/0083-capsule-femeia-sanatoasa.jpg"
+  },
+  {
+   "id": "0067-capsule-ru-kang",
+   "cod": "0067",
+   "title": "Capsule Ru Kang",
+   "category": "sanatatea-femeii",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Fitocomplex pentru sănătatea sânilor și echilibrul hormonal feminin.",
+   "description": "Ru Kang este un complex vegetal dedicat sănătății femeii: talpa-gâștei, smilax, semințe de lacrima-lui-Iov, malț, spori de Ganoderma și vitamina D. Susține echilibrul hormonal, sănătatea glandei mamare și imunitatea.",
+   "benefits": [
+    "Susține sănătatea glandei mamare",
+    "Contribuie la echilibrul hormonal",
+    "Susține imunitatea",
+    "Ajută la reducerea disconfortului premenstrual"
+   ],
+   "composition": "Extract de talpa-gâștei, extract de rizom de smilax, semințe de lacrima-lui-Iov, extract de malț, pulbere din spori de Ganoderma, vitamina D, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi",
+   "warnings": "",
+   "image": "produse/05-sanatatea-femeii/0067-capsule-ru-kang.jpg"
+  },
+  {
+   "id": "0046-capsule-yi-shen-bao-pentru-femei",
+   "cod": "0046",
+   "title": "Capsule Yi Shen Bao pentru femei",
+   "category": "sanatatea-femeii",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex vegetal pentru echilibrul și sănătatea femeii.",
+   "description": "Yi Shen Bao pentru femei este o formulă vegetală pentru sistemul urogenital feminin, echilibrul hormonal și confortul în timpul ciclului menstrual. Susține și sănătatea pielii și starea generală de bine.",
+   "benefits": [
+    "Susține sănătatea sistemului urogenital feminin",
+    "Contribuie la echilibrul hormonal",
+    "Susține confortul în timpul ciclului menstrual",
+    "Contribuie la sănătatea pielii și a părului"
+   ],
+   "composition": "Extract de fructe de ligustrum, extract de angelică, extract de crin, extract de codonopsis, extract de dud, extract de sâmburi de piersică, stearat de magneziu",
+   "pack": "100 capsule × 500 mg",
+   "usage": "2–4 capsule de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/05-sanatatea-femeii/0046-capsule-yi-shen-bao-pentru-femei.jpg"
+  },
+  {
+   "id": "0066-ceai-ru-kang",
+   "cod": "0066",
+   "title": "Ceai Ru Kang",
+   "category": "sanatatea-femeii",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai din plante pentru sânii sănătoși și echilibru hormonal.",
+   "description": "Fitobăutură creată pentru sănătatea glandelor mamare, echilibrul hormonal și starea generală de bine a femeii. Formula se bazează pe plante tradiționale orientale.",
+   "benefits": [
+    "Susține sănătatea glandei mamare",
+    "Contribuie la echilibrul hormonal",
+    "Reduce disconfortul premenstrual",
+    "Susține starea generală de bine"
+   ],
+   "composition": "Rădăcină de angelică chinezească, rădăcină de rehmannia, poria, rădăcină de bujor alb, rizom de ligusticum, fruct de gardenia, tuberculi de cyperus, semințe de lacrima-lui-Iov",
+   "pack": "16 plicuri × 4 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "Nu se recomandă în sarcină.",
+   "image": "produse/05-sanatatea-femeii/0066-ceai-ru-kang.jpg"
+  },
+  {
+   "id": "1042-gel-grija-pentru-femeie",
+   "cod": "1042",
+   "title": "Gel „Grija pentru femeie”",
+   "category": "sanatatea-femeii",
+   "type": "Gel",
+   "price": 350,
+   "short": "Gel intim cu extracte din plante pentru confort și prospețime.",
+   "description": "Gel modern pentru îngrijirea zonei intime feminine, cu extracte vegetale și un antiseptic. Este conceput pentru confort, prospețime și reducerea disconfortului intim.",
+   "benefits": [
+    "Reduce mâncărimea și senzația de arsură",
+    "Elimină mirosul neplăcut",
+    "Susține echilibrul zonei intime",
+    "Aplicator de unică folosință"
+   ],
+   "composition": "Rădăcină de sophora, fruct de cnidium, rădăcină de stemona, suc uscat de aloe, borneol, bromură de domifen, rădăcină de angelică chinezească, scoarță de phellodendron, scoarță de pseudolarix, rădăcină de rubarbă",
+   "pack": "5 aplicatoare × 3 g",
+   "usage": "Seara, înainte de culcare, conținutul aplicatorului se introduce intravaginal. Cură de 5–15 zile",
+   "warnings": "Nu se folosește în sarcină. Consultați medicul ginecolog înainte de utilizare.",
+   "image": "produse/05-sanatatea-femeii/1042-gel-grija-pentru-femeie.jpg"
+  },
+  {
+   "id": "0011-izoflavone-din-soia",
+   "cod": "0011",
+   "title": "Izoflavone din soia",
+   "category": "sanatatea-femeii",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Fitoestrogeni naturali pentru echilibrul hormonal feminin.",
+   "description": "Izoflavonele din soia sunt fitoestrogeni cu structură asemănătoare estrogenilor proprii. Susțin blând echilibrul hormonal în perioadele de schimbare: sindrom premenstrual, premenopauză și menopauză.",
+   "benefits": [
+    "Susține echilibrul hormonal feminin",
+    "Contribuie la menținerea densității osoase",
+    "Susține sănătatea cardiovasculară",
+    "Contribuie la elasticitatea și calitatea pielii"
+   ],
+   "composition": "Izoflavone de soia (10 mg), pulbere de boabe negre de soia (100 mg), pulbere din spori de Ganoderma (38 mg), extract de angelică (80 mg), dextrină (1 mg), stearat de magneziu (1 mg)",
+   "pack": "90 capsule × 300 mg",
+   "usage": "1 capsulă de 1–2 ori pe zi, cu apă caldă",
+   "warnings": "",
+   "image": "produse/05-sanatatea-femeii/0011-izoflavone-din-soia.jpg"
+  },
+  {
+   "id": "1124-tampoane-din-plante-pentru-femei",
+   "cod": "1124",
+   "title": "Tampoane din plante pentru femei",
+   "category": "sanatatea-femeii",
+   "type": "Tampoane",
+   "price": 350,
+   "short": "Tampoane intime cu extracte din plante tradiționale chinezești.",
+   "description": "Tampoane cu extracte vegetale folosite tradițional în medicina chineză pentru îngrijirea intimă a femeii și susținerea sănătății sistemului reproductiv.",
+   "benefits": [
+    "Îngrijire intimă cu extracte vegetale",
+    "Susține prospețimea zonei intime",
+    "Ambalate individual",
+    "Ușor de folosit"
+   ],
+   "composition": "Fruct de cnidium, rizom de smilax, rizom de ligusticum, talpa-gâștei, rădăcină de stemona, rădăcină de angelică chinezească, borneol",
+   "pack": "6 tampoane",
+   "usage": "Cu mâinile bine spălate, se desface ambalajul, se derulează firul și se introduce tamponul conform instrucțiunilor de pe ambalaj",
+   "warnings": "Nu se folosește în timpul menstruației și în sarcină. Consultați medicul ginecolog.",
+   "image": "produse/05-sanatatea-femeii/1124-tampoane-din-plante-pentru-femei.jpg"
+  },
+  {
+   "id": "0097-capsule-qian-lie-kang",
+   "cod": "0097",
+   "title": "Capsule Qian Lie Kang",
+   "category": "sanatatea-barbatului",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Fitocomplex pentru sănătatea prostatei și confort urinar.",
+   "description": "Complex vegetal pentru prostată și sistemul urogenital masculin. Pătlagina, rehmannia, anemarrhena, bujorul alb, ligustrum, eclipta și astragalusul susțin confortul urinar și microcirculația în zona pelviană.",
+   "benefits": [
+    "Susține sănătatea prostatei",
+    "Contribuie la un flux urinar normal",
+    "Reduce disconfortul din zona pelviană",
+    "Susține microcirculația locală"
+   ],
+   "composition": "Extract de pătlagină, extract de rehmannia, extract de anemarrhena, extract de bujor alb, extract de ligustrum, eclipta, astragalus",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 2 ori pe zi",
+   "warnings": "",
+   "image": "produse/06-sanatatea-barbatului/0097-capsule-qian-lie-kang.jpg"
+  },
+  {
+   "id": "0007-capsule-vigor",
+   "cod": "0007",
+   "title": "Capsule Vigor",
+   "category": "sanatatea-barbatului",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex vegetal pentru vitalitatea și sănătatea intimă masculină.",
+   "description": "Vigor este o formulă din plante tradiționale (cuscută, goji, dioscorea, rehmannia, astragalus) pentru susținerea sănătății masculine. Contribuie la vitalitate, rezistență fizică și echilibru hormonal.",
+   "benefits": [
+    "Susține libidoul și vitalitatea masculină",
+    "Contribuie la circulația în zona pelviană",
+    "Susține rezistența fizică și psiho-emoțională",
+    "Sprijină echilibrul hormonal masculin"
+   ],
+   "composition": "Extract de semințe de cuscută, extract de goji, pulbere de rizom de dioscorea, extract de rehmannia, extract de scoarță de bujor arbustiv, astragalus, frunză de dud, dextrină, stearat de magneziu",
+   "pack": "6 capsule × 500 mg",
+   "usage": "1–2 capsule cu 30–60 minute înainte de contactul intim, cu apă caldă",
+   "warnings": "Doar pentru bărbați adulți.",
+   "image": "produse/06-sanatatea-barbatului/0007-capsule-vigor.jpg"
+  },
+  {
+   "id": "0045-capsule-yi-shen-bao-pentru-barbati",
+   "cod": "0045",
+   "title": "Capsule Yi Shen Bao pentru bărbați",
+   "category": "sanatatea-barbatului",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă complexă pentru sistemul urogenital și vitalitatea masculină.",
+   "description": "Yi Shen Bao pentru bărbați combină goji, scorțișoară, euryale, ginseng, dioscorea și cochilie de stridie. Susține sistemul urogenital masculin, circulația în zona pelviană, energia și metabolismul.",
+   "benefits": [
+    "Susține sănătatea sistemului urogenital masculin",
+    "Contribuie la vitalitate și energie",
+    "Susține circulația în zona pelviană",
+    "Efect tonic general"
+   ],
+   "composition": "Extract de goji, extract de scorțișoară, extract de euryale, extract de rădăcină de ginseng, extract de rizom de dioscorea, extract de cochilie de stridie, extract de crizantemă, stearat de magneziu",
+   "pack": "100 capsule × 500 mg",
+   "usage": "2–4 capsule de 1–2 ori pe zi, între mese",
+   "warnings": "",
+   "image": "produse/06-sanatatea-barbatului/0045-capsule-yi-shen-bao-pentru-barbati.jpg"
+  },
+  {
+   "id": "0072-capsule-guan-jie-kang",
+   "cod": "0072",
+   "title": "Capsule Guan Jie Kang",
+   "category": "oase-articulatii",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Glucozamină și condroitină pentru articulații mobile.",
+   "description": "Complex specializat pentru articulații, cartilaje și oase. Glucozamina și condroitina, alături de extracte vegetale tradiționale și calciu, susțin structura țesutului conjunctiv și mobilitatea.",
+   "benefits": [
+    "Susține sănătatea cartilajului articular",
+    "Contribuie la mobilitatea articulațiilor",
+    "Reduce disconfortul la mișcare",
+    "Susține rezistența oaselor"
+   ],
+   "composition": "Clorhidrat de glucozamină, sulfat de condroitină, extract de rizom de drynaria, extract de rizom de atractylodes, extract de astragalus, carbonat de calciu, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 2 ori pe zi",
+   "warnings": "Nu se recomandă persoanelor alergice la crustacee.",
+   "image": "produse/07-oase-articulatii/0072-capsule-guan-jie-kang.jpg"
+  },
+  {
+   "id": "0020-capsule-moi-calciu-pentru-adulti",
+   "cod": "0020",
+   "title": "Capsule moi Calciu pentru adulți",
+   "category": "oase-articulatii",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Calciu cu vitamina D3 pentru oase, mușchi și sistem nervos.",
+   "description": "Calciul este necesar pentru rezistența oaselor, funcția musculară, nervoasă și cardiacă. Aportul insuficient duce, în timp, la pierderea masei osoase. Nano-carbonatul de calciu, combinat cu vitamina D3, oferă o absorbție bună.",
+   "benefits": [
+    "Contribuie la menținerea oaselor și dinților sănătoși",
+    "Susține funcția musculară normală",
+    "Contribuie la coagularea normală a sângelui",
+    "Susține metabolismul energetic"
+   ],
+   "composition": "Carbonat de calciu, ulei cu vitamina D3 (100 UI/capsulă), ulei de soia",
+   "pack": "100 capsule × 1000 mg",
+   "usage": "2 capsule de 1–2 ori pe zi după masă, cu apă caldă",
+   "warnings": "",
+   "image": "produse/07-oase-articulatii/0020-capsule-moi-calciu-pentru-adulti.jpg"
+  },
+  {
+   "id": "1015-crema-qiu-tong-gao",
+   "cod": "1015",
+   "title": "Cremă Qiu Tong Gao",
+   "category": "oase-articulatii",
+   "type": "Cremă",
+   "price": 240,
+   "short": "Cremă din plante pentru confortul articulațiilor și mușchilor.",
+   "description": "Produs de uz extern pe bază de plante folosite tradițional în medicina orientală pentru susținerea aparatului locomotor și ameliorarea disconfortului din articulații și mușchi.",
+   "benefits": [
+    "Ameliorează disconfortul articular și muscular",
+    "Efect calmant local",
+    "Susține mobilitatea",
+    "Formulă din plante"
+   ],
+   "composition": "Gynura, angelică chinezească, eleuterococ și alte ingrediente",
+   "pack": "Tub 60 g",
+   "usage": "Se aplică pe zona afectată de 1–2 ori pe zi, pe pielea curățată cu apă caldă",
+   "warnings": "Nu se aplică pe răni deschise.",
+   "image": "produse/07-oase-articulatii/1015-crema-qiu-tong-gao.jpg"
+  },
+  {
+   "id": "1126-plasture-ortopedic",
+   "cod": "1126",
+   "title": "Plasture ortopedic",
+   "category": "oase-articulatii",
+   "type": "Plasturi",
+   "price": 260,
+   "short": "Plasture din plante pentru articulații, coloană și mușchi.",
+   "description": "Produs natural pe bază de plante orientale tradiționale, pentru confortul articulațiilor, al coloanei vertebrale și al mușchilor. Încălzește local și susține microcirculația.",
+   "benefits": [
+    "Ameliorează disconfortul articular și muscular",
+    "Efect de încălzire locală",
+    "Susține microcirculația",
+    "Util după efort fizic"
+   ],
+   "composition": "Aconit, oliban (tămâie), efedră chinezească, ghimbir uscat, angelică chinezească, smirnă, notopterygium, șofrănel, sânge-de-dragon, corydalis și alte plante",
+   "pack": "10 plasturi",
+   "usage": "Se curăță pielea, se îndepărtează folia protectoare și se aplică plasturele pe zona dureroasă",
+   "warnings": "Nu se aplică pe răni sau pe pielea iritată. Nu se folosește în sarcină.",
+   "image": "produse/07-oase-articulatii/1126-plasture-ortopedic.jpg"
+  },
+  {
+   "id": "0264-pudra-nutritiva-complexa-cu-calciu",
+   "cod": "0264",
+   "title": "Pudră nutritivă complexă cu calciu",
+   "category": "oase-articulatii",
+   "type": "Pudră",
+   "price": 420,
+   "short": "Calciu chelat, colagen și acid hialuronic pentru oase și articulații.",
+   "description": "Formulă complexă pentru oase, dinți, articulații și țesut conjunctiv. Combină calciu osos bine asimilat cu peptide de colagen din pește, acid hialuronic și vitaminele K, A, B1 și B2.",
+   "benefits": [
+    "Contribuie la menținerea oaselor sănătoase",
+    "Susține sănătatea dinților",
+    "Susține articulațiile și cartilajele",
+    "Vitamina K contribuie la fixarea calciului"
+   ],
+   "composition": "Izomaltooligozaharide, lapte praf degresat, pulbere de calciu osos, peptide de colagen din pește, hialuronat de sodiu, vitamina K, vitamina A, vitamina B1, vitamina B2, dioxid de siliciu, steviozidă, aromă",
+   "pack": "10 plicuri × 10 g",
+   "usage": "½–1 plic amestecat cu apă caldă sau cu alimente, de 1–2 ori pe zi",
+   "warnings": "Conține lapte și pește (alergeni).",
+   "image": "produse/07-oase-articulatii/0264-pudra-nutritiva-complexa-cu-calciu.jpg"
+  },
+  {
+   "id": "0247-capsule-vitamina-d3",
+   "cod": "0247",
+   "title": "Capsule Vitamina D3",
+   "category": "vitamine-minerale",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Vitamina D3 5000 UI pentru oase, imunitate și mușchi.",
+   "description": "Vitamina D3 este o vitamină liposolubilă esențială pentru imunitate, absorbția calciului și fosforului și pentru sănătatea oaselor, dinților și mușchilor.",
+   "benefits": [
+    "Contribuie la absorbția normală a calciului și fosforului",
+    "Contribuie la menținerea oaselor și dinților sănătoși",
+    "Susține funcționarea normală a sistemului imunitar",
+    "Contribuie la menținerea funcției musculare normale"
+   ],
+   "composition": "Vitamina D3 (5000 UI/capsulă), dextrină, dioxid de siliciu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1 capsulă pe zi după micul dejun sau la recomandarea medicului",
+   "warnings": "Doză ridicată; utilizarea îndelungată se face la recomandarea medicului.",
+   "image": "produse/08-vitamine-minerale/0247-capsule-vitamina-d3.jpg"
+  },
+  {
+   "id": "0345-capsule-cu-continut-ridicat-de-vitamina-b9",
+   "cod": "0345",
+   "title": "Capsule cu conținut ridicat de vitamina B9",
+   "category": "vitamine-minerale",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Acid folic pentru sânge sănătos, sarcină și sistem nervos.",
+   "description": "Vitamina B9 (acid folic) susține sinteza ADN-ului, formarea celulelor sanguine și reglarea homocisteinei. Este importantă în planificarea sarcinii și în timpul acesteia.",
+   "benefits": [
+    "Contribuie la formarea normală a celulelor sanguine",
+    "Contribuie la creșterea țesutului matern în timpul sarcinii",
+    "Contribuie la metabolismul normal al homocisteinei",
+    "Reduce oboseala"
+   ],
+   "composition": "Acid folic (400 mcg), extract de afine (10 mg)",
+   "pack": "60 capsule × 500 mg",
+   "usage": "Pentru menținere: 1 capsulă pe zi; în planificarea sarcinii: 1–2 capsule pe zi sau la recomandarea medicului",
+   "warnings": "",
+   "image": "produse/08-vitamine-minerale/0345-capsule-cu-continut-ridicat-de-vitamina-b9.jpg"
+  },
+  {
+   "id": "0018-tablete-multivitamine",
+   "cod": "0018",
+   "title": "Tablete Multivitamine",
+   "category": "vitamine-minerale",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Vitamine esențiale zilnic pentru adulți activi.",
+   "description": "Complex echilibrat de vitamine pentru adulți, gândit pentru solicitările vieții moderne: stres, efort și ritm alert. Dozele sunt alese pentru o bună asimilare și un efect tonic general.",
+   "benefits": [
+    "Completează aportul de vitamine esențiale",
+    "Susține imunitatea",
+    "Contribuie la concentrare și memorie",
+    "Susține energia și metabolismul energetic"
+   ],
+   "composition": "Vitamina C, vitamina E, vitamina B1, vitamina B2, vitamina B6, vitamina B12, vitamina A, vitamina D, niacină, acid folic, lactoză, carbonat de calciu, D-manitol, hidroxipropilmetilceluloză, celuloză microcristalină, zahăr, dextrină, stearat de magneziu",
+   "pack": "100 tablete × 1000 mg",
+   "usage": "1 tabletă pe zi după micul dejun",
+   "warnings": "",
+   "image": "produse/08-vitamine-minerale/0018-tablete-multivitamine.jpg"
+  },
+  {
+   "id": "0044-tablete-seleniu-pentru-adulti",
+   "cod": "0044",
+   "title": "Tablete Seleniu pentru adulți",
+   "category": "vitamine-minerale",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Seleniu organic – antioxidant pentru imunitate și tiroidă.",
+   "description": "Seleniul participă la metabolismul proteinelor, intră în componența enzimelor antioxidante și a hormonilor. Susține imunitatea, protejează celulele și contribuie la funcția normală a tiroidei.",
+   "benefits": [
+    "Contribuie la protejarea celulelor împotriva stresului oxidativ",
+    "Susține funcționarea normală a sistemului imunitar",
+    "Contribuie la funcția normală a tiroidei",
+    "Susține sănătatea părului și a unghiilor"
+   ],
+   "composition": "Drojdie îmbogățită cu seleniu, lactoză, hipromeloză, zahăr, acid citric, ciclamat de sodiu, dextrină, aromă, stearat de magneziu",
+   "pack": "60 tablete × 700 mg",
+   "usage": "1 tabletă o dată pe zi, cu apă caldă",
+   "warnings": "",
+   "image": "produse/08-vitamine-minerale/0044-tablete-seleniu-pentru-adulti.jpg"
+  },
+  {
+   "id": "0022-tablete-zinc-pentru-adulti",
+   "cod": "0022",
+   "title": "Tablete Zinc pentru adulți",
+   "category": "vitamine-minerale",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Zinc pentru imunitate, echilibru hormonal și vedere.",
+   "description": "Zincul face parte din peste 200 de enzime și hormoni și susține sistemele imunitar, nervos și endocrin. Este recomandat în caz de aport insuficient sau ca parte a programelor complexe de susținere a sănătății.",
+   "benefits": [
+    "Contribuie la funcționarea normală a sistemului imunitar",
+    "Susține fertilitatea și echilibrul hormonal",
+    "Contribuie la menținerea vederii normale",
+    "Susține sănătatea pielii, părului și unghiilor"
+   ],
+   "composition": "Lactat de zinc, lactoză, sorbitol, ciclamat de sodiu, hidroxipropilmetilceluloză, zahăr, acid citric, maltodextrină, dextrină, amidon, stearat de magneziu",
+   "pack": "60 tablete × 1000 mg",
+   "usage": "1–2 tablete pe zi, se sug sau se mestecă",
+   "warnings": "",
+   "image": "produse/08-vitamine-minerale/0022-tablete-zinc-pentru-adulti.jpg"
+  },
+  {
+   "id": "0099-vitamina-c",
+   "cod": "0099",
+   "title": "Vitamina C",
+   "category": "vitamine-minerale",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Vitamina C blândă cu stomacul, pentru imunitate și colagen.",
+   "description": "Formă de acid ascorbic bine asimilată și blândă cu stomacul, pentru protecție antioxidantă zilnică. Organismul nu stochează vitamina C, de aceea aportul zilnic este important.",
+   "benefits": [
+    "Contribuie la funcționarea normală a sistemului imunitar",
+    "Contribuie la formarea normală a colagenului",
+    "Protejează celulele de stresul oxidativ",
+    "Reduce oboseala"
+   ],
+   "composition": "Vitamina C, maltodextrină, zahăr, D-manitol, stearat de magneziu",
+   "pack": "60 tablete × 700 mg",
+   "usage": "Copii: 1 tabletă pe zi; adulți: 2 tablete o dată pe zi după masă. Se sug",
+   "warnings": "",
+   "image": "produse/08-vitamine-minerale/0099-vitamina-c.jpg"
+  },
+  {
+   "id": "0329-bomboane-cu-polipeptide",
+   "cod": "0329",
+   "title": "Bomboane cu polipeptide",
+   "category": "antioxidanti-frumusete",
+   "type": "Bomboane",
+   "price": 250,
+   "short": "Bomboane cu peptide de colagen pentru frumusețe și energie.",
+   "description": "Produs funcțional modern pentru frumusețe, energie și sănătate. Formula reunește cinci complexe de peptide de calitate, inclusiv peptide de colagen din pește, care susțin sănătatea pielii din interior.",
+   "benefits": [
+    "Susțin elasticitatea și hidratarea pielii",
+    "Sursă de peptide ușor asimilabile",
+    "Susțin energia și tonusul",
+    "Format comod, ușor de luat oriunde"
+   ],
+   "composition": "Sorbitol, maltodextrină, pulbere de peptide de colagen din pește și alte peptide (listă de verificat pe ambalaj)",
+   "pack": "60 buc. × 0,5 g",
+   "usage": "Nu mai mult de 10 bomboane pe zi",
+   "warnings": "Conține pește (alergen).",
+   "image": "produse/09-antioxidanti-frumusete/0329-bomboane-cu-polipeptide.jpg"
+  },
+  {
+   "id": "0100-capsule-licopen",
+   "cod": "0100",
+   "title": "Capsule Licopen",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Licopen concentrat cu curcumină – protecție antioxidantă puternică.",
+   "description": "Complex antioxidant concentrat pentru protecția celulelor împotriva stresului oxidativ. Susține sistemul cardiovascular, vederea și sănătatea masculină și feminină.",
+   "benefits": [
+    "Protecție antioxidantă puternică",
+    "Susține sănătatea prostatei",
+    "Susține sănătatea cardiovasculară",
+    "Contribuie la sănătatea pielii"
+   ],
+   "composition": "Licopen, curcumină, ulei de soia, ceară",
+   "pack": "60 capsule × 750 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi după masă, cu apă caldă",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0100-capsule-licopen.jpg"
+  },
+  {
+   "id": "0064-capsule-opc",
+   "cod": "0064",
+   "title": "Capsule OPC",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Antioxidant puternic din semințe de struguri pentru vase și piele.",
+   "description": "OPC (proantocianidine oligomerice) din semințe de struguri, cu vitamina E și morcov, oferă protecție antioxidantă de spectru larg. Susțin elasticitatea vaselor, sănătatea pielii și încetinirea îmbătrânirii.",
+   "benefits": [
+    "Protecție antioxidantă puternică",
+    "Susține elasticitatea vaselor de sânge",
+    "Contribuie la sănătatea pielii",
+    "Susține circulația"
+   ],
+   "composition": "Extract din semințe de struguri, vitamina E, pulbere de morcov, dextrină, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 2 ori pe zi",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0064-capsule-opc.jpg"
+  },
+  {
+   "id": "0084-capsule-tinerete",
+   "cod": "0084",
+   "title": "Capsule Tinerețe",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex anti-age pentru vitalitate, memorie și energie celulară.",
+   "description": "Formulă complexă pentru încetinirea proceselor de îmbătrânire și creșterea vitalității. Eleuterococul, rhodiola, astragalusul, ginsengul, goji și afinele susțin inima, creierul, imunitatea și energia celulară.",
+   "benefits": [
+    "Susține adaptarea la stres și efort",
+    "Contribuie la memorie și concentrare",
+    "Protecție antioxidantă a celulelor",
+    "Susține imunitatea și energia"
+   ],
+   "composition": "Extract de afine, extract de eleuterococ, extract de rădăcină de rhodiola, extract de achyranthes, extract de astragalus, extract de rădăcină de ginseng, extract de goji, extract de pueraria, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 1–2 ori pe zi",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0084-capsule-tinerete.jpg"
+  },
+  {
+   "id": "0032-capsule-vitamina-e",
+   "cod": "0032",
+   "title": "Capsule Vitamina E",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Vitamina E naturală – antioxidant pentru celule tinere și piele sănătoasă.",
+   "description": "Vitamina E (tocoferol) este un antioxidant puternic care protejează celulele de radicalii liberi. Se depozitează în țesutul adipos, așa că nu necesită doze mari. Susține sănătatea pielii, a sistemului reproductiv și a vaselor de sânge.",
+   "benefits": [
+    "Contribuie la protejarea celulelor împotriva stresului oxidativ",
+    "Susține sănătatea și elasticitatea pielii",
+    "Susține sistemul reproductiv",
+    "Contribuie la sănătatea cardiovasculară"
+   ],
+   "composition": "Vitamina E, ulei de soia",
+   "pack": "100 capsule × 500 mg",
+   "usage": "1 capsulă o dată pe zi, în timpul mesei, cu apă caldă",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0032-capsule-vitamina-e.jpg"
+  },
+  {
+   "id": "0252-capsule-longevitatii-nmn",
+   "cod": "0252",
+   "title": "Capsule longevității NMN",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 990,
+   "short": "NMN premium pentru energie celulară și longevitate.",
+   "description": "Complex anti-age premium care acționează la nivel celular. NMN (nicotinamid mononucleotid) este precursor al NAD+, un metabolit esențial pentru producerea energiei celulare. Formula conține și extracte de avocado, broccoli, castravete și afine.",
+   "benefits": [
+    "Susține energia celulară",
+    "Contribuie la protecția celulelor",
+    "Susține funcția cognitivă",
+    "Ajută la încetinirea semnelor îmbătrânirii"
+   ],
+   "composition": "NMN (β-nicotinamid mononucleotid, 150 mg/capsulă), extract de avocado, extract de broccoli, extract de castravete, extract de afine, extract de drojdie, celuloză microcristalină, dioxid de siliciu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule de 1–2 ori pe zi, între mese (de preferat dimineața, înainte de ora 15:00)",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0252-capsule-longevitatii-nmn.jpg"
+  },
+  {
+   "id": "0128-capsule-nutritive-pentru-piele-par-si-unghii",
+   "cod": "0128",
+   "title": "Capsule nutritive pentru piele, păr și unghii",
+   "category": "antioxidanti-frumusete",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Frumusețe din interior: colagen, biotină, vitamine și minerale.",
+   "description": "Formulă complexă pentru frumusețe și sănătate din interior. Vitaminele din grupul B, biotina, vitamina D, colagenul și mineralele susțin sinteza de colagen, elasticitatea pielii și rezistența părului și a unghiilor.",
+   "benefits": [
+    "Susține sinteza naturală de colagen",
+    "Contribuie la elasticitatea pielii",
+    "Susține sănătatea părului",
+    "Contribuie la unghii rezistente"
+   ],
+   "composition": "Vitamina D (180 UI), vitaminele B1, B2, B3, B6, B12, biotină (vitamina H), calciu, magneziu, zinc, siliciu, colagen, PABA",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule o dată pe zi, la 30 de minute după micul dejun",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0128-capsule-nutritive-pentru-piele-par-si-unghii.jpg"
+  },
+  {
+   "id": "0215-colagen-peptidic-cu-afine",
+   "cod": "0215",
+   "title": "Colagen peptidic cu afine",
+   "category": "antioxidanti-frumusete",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Colagen hidrolizat cu afine pentru piele, articulații și vedere.",
+   "description": "Complex nutritiv inovator cu peptide și tripeptide de colagen cu greutate moleculară mică, combinat cu sucuri de afine, cireșe și măr și fermenți din fructe. Susține pielea, articulațiile, oasele și vederea.",
+   "benefits": [
+    "Susține fermitatea și elasticitatea pielii",
+    "Contribuie la sănătatea articulațiilor și ligamentelor",
+    "Susține sănătatea oaselor",
+    "Protecție antioxidantă pentru ochi"
+   ],
+   "composition": "Apă, fructooligozaharide, concentrat de suc de cireșe, concentrat de suc de afine, concentrat de suc de măr, peptide de colagen, tripeptide de colagen, pulbere de fermenți din fructe și legume și alte ingrediente",
+   "pack": "12 plicuri × 25 g",
+   "usage": "1–2 plicuri de 1–3 ori pe zi; se consumă imediat după deschidere",
+   "warnings": "",
+   "image": "produse/09-antioxidanti-frumusete/0215-colagen-peptidic-cu-afine.jpg"
+  },
+  {
+   "id": "0047-capsule-normomass",
+   "cod": "0047",
+   "title": "Capsule Normomass",
+   "category": "metabolism-greutate",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Complex vegetal pentru controlul greutății și metabolism activ.",
+   "description": "Normomass combină semințe de cassia, frunze de lotus, pueraria, fasole albă, cafea verde, păducel și dud. Ajută la controlul apetitului, susține metabolismul și eliminarea excesului de lichide.",
+   "benefits": [
+    "Ajută la controlul apetitului",
+    "Susține metabolismul grăsimilor",
+    "Contribuie la eliminarea excesului de lichide",
+    "Susține menținerea unei greutăți normale"
+   ],
+   "composition": "Extract de semințe de cassia, extract de frunze de lotus, extract de rădăcină de pueraria, extract de flori de portocal amar, extract de fasole albă, extract de cafea verde, extract de ciupercă champignon, extract de păducel, extract de dud, dextrină, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1 capsulă la 30 de minute după micul dejun, în cure de 14 zile pe lună sau zilnic timp de 1–2 luni",
+   "warnings": "Pot apărea reacții individuale (insomnie, palpitații). Consultați medicul în caz de afecțiuni endocrine sau cardiovasculare.",
+   "image": "produse/10-metabolism-greutate/0047-capsule-normomass.jpg"
+  },
+  {
+   "id": "0094-capsule-qing-tang",
+   "cod": "0094",
+   "title": "Capsule Qing Tang",
+   "category": "metabolism-greutate",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Formulă vegetală pentru glicemie echilibrată.",
+   "description": "Qing Tang combină castravete amar (momordica), frunze de dud, astragalus și pueraria. Susține metabolismul glucidelor, funcția pancreasului și menținerea glicemiei în limite normale.",
+   "benefits": [
+    "Contribuie la menținerea glicemiei normale",
+    "Susține metabolismul glucidelor",
+    "Susține funcția pancreasului",
+    "Susține sensibilitatea la insulină"
+   ],
+   "composition": "Pulbere de castravete amar (Momordica charantia), extract de frunze de dud, extract de astragalus, extract de pueraria, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "2 capsule o dată pe zi",
+   "warnings": "Persoanele cu diabet tratat medicamentos trebuie să consulte medicul.",
+   "image": "produse/10-metabolism-greutate/0094-capsule-qing-tang.jpg"
+  },
+  {
+   "id": "0040-ceai-ku-gua",
+   "cod": "0040",
+   "title": "Ceai Ku Gua",
+   "category": "metabolism-greutate",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai cu castravete amar pentru glicemie echilibrată.",
+   "description": "Fitobăutură funcțională pentru metabolismul glucidelor și sănătatea pancreasului. Castravetele amar este folosit tradițional în medicina orientală pentru menținerea glicemiei în limite normale.",
+   "benefits": [
+    "Susține metabolismul glucidelor",
+    "Contribuie la menținerea glicemiei normale",
+    "Susține funcția pancreasului",
+    "Susține sensibilitatea la insulină"
+   ],
+   "composition": "Pulbere de castravete amar (Momordica charantia), ceai verde",
+   "pack": "20 plicuri × 2 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "Persoanele cu diabet tratat medicamentos trebuie să consulte medicul.",
+   "image": "produse/10-metabolism-greutate/0040-ceai-ku-gua.jpg"
+  },
+  {
+   "id": "0004-ceai-tian-fei",
+   "cod": "0004",
+   "title": "Ceai Tian Fei",
+   "category": "metabolism-greutate",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai din plante pentru silueta, digestie și detoxifiere.",
+   "description": "Formula ceaiului Tian Fei combină plante folosite tradițional în medicina orientală pentru digestie, eliminarea toxinelor și armonizarea tractului digestiv. Susține metabolismul și controlul greutății.",
+   "benefits": [
+    "Susține metabolismul",
+    "Contribuie la eliminarea toxinelor",
+    "Susține digestia",
+    "Ajută la controlul greutății"
+   ],
+   "composition": "Frunze de lotus alb, semințe de cassia tora, semințe de ridiche, flori de portocal amar, extract de polen de molid",
+   "pack": "16 plicuri × 4 g",
+   "usage": "Adulți: 1 plic la o cană de apă clocotită, se lasă 5 minute; câte o cană de 2 ori pe zi înainte de masă",
+   "warnings": "Nu se recomandă în sarcină și alăptare.",
+   "image": "produse/10-metabolism-greutate/0004-ceai-tian-fei.jpg"
+  },
+  {
+   "id": "0127-ceai-de-hrisca-amara-tartary",
+   "cod": "0127",
+   "title": "Ceai de hrișcă amară (Tartary)",
+   "category": "metabolism-greutate",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai din boabe de hrișcă amară pentru digestie, glicemie și vase.",
+   "description": "Ceai din boabe măcinate de hrișcă amară, bogată în rutină, vitamine, minerale și fibre. Susține digestia, glicemia normală și circulația sângelui.",
+   "benefits": [
+    "Susține digestia și tranzitul intestinal",
+    "Contribuie la menținerea glicemiei normale",
+    "Susține circulația și vasele de sânge",
+    "Fără cofeină"
+   ],
+   "composition": "Boabe măcinate de hrișcă amară",
+   "pack": "20 plicuri × 4 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă sau ca gustare. Se infuzează 3–5 minute în apă clocotită; se pot consuma și boabele",
+   "warnings": "",
+   "image": "produse/10-metabolism-greutate/0127-ceai-de-hrisca-amara-tartary.jpg"
+  },
+  {
+   "id": "0144-bomboane-masticabile-cu-afine",
+   "cod": "0144",
+   "title": "Bomboane masticabile cu afine",
+   "category": "vedere",
+   "type": "Bomboane",
+   "price": 250,
+   "short": "Bomboane gustoase cu afine pentru ochi, vase și creier.",
+   "description": "Un mod gustos de a susține zilnic sănătatea ochilor, a vaselor de sânge și a creierului. Baza produsului este pulberea naturală de afine, bogată în antociani – antioxidanți naturali puternici.",
+   "benefits": [
+    "Susțin sănătatea ochilor",
+    "Reduc oboseala ochilor la ecrane",
+    "Protecție antioxidantă",
+    "Gustare sănătoasă pentru copii și adulți"
+   ],
+   "composition": "Pulbere de afine, lactoză, zahăr granulat, D-sorbitol, acid citric, maltodextrină",
+   "pack": "60 buc. × 0,5 g",
+   "usage": "Nu mai mult de 10 bomboane pe zi",
+   "warnings": "",
+   "image": "produse/11-vedere/0144-bomboane-masticabile-cu-afine.jpg"
+  },
+  {
+   "id": "0118-bautura-instant-afine",
+   "cod": "0118",
+   "title": "Băutură instant Afine",
+   "category": "vedere",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Băutură din sucuri de fructe de pădure pentru vedere și imunitate.",
+   "description": "Complex antioxidant pe bază de sucuri concentrate de afine, cireșe, zmeură și mure, cu vitamina C. Tehnologia la temperatură joasă păstrează antocianii naturali.",
+   "benefits": [
+    "Reduce oboseala ochilor",
+    "Susține imunitatea",
+    "Protecție antioxidantă",
+    "Susține microcirculația"
+   ],
+   "composition": "Suc pulbere de afine, suc pulbere de cireșe, suc pulbere de zmeură, suc pulbere de mure, zahăr, xilitol, acid ascorbic, maltodextrină, acid citric, sorbat de potasiu, aromă",
+   "pack": "30 plicuri × 6 g",
+   "usage": "1–2 plicuri pe zi, dizolvate în 150 ml apă caldă",
+   "warnings": "",
+   "image": "produse/11-vedere/0118-bautura-instant-afine.jpg"
+  },
+  {
+   "id": "0038-capsule-cu-beta-caroten-si-licopen",
+   "cod": "0038",
+   "title": "Capsule cu beta-caroten și licopen",
+   "category": "vedere",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Carotenoide naturale pentru vedere, piele și protecție antioxidantă.",
+   "description": "Beta-carotenul este precursor al vitaminei A, iar licopenul este un carotenoid antioxidant puternic. Împreună protejează celulele de radicalii liberi, susțin vederea și sănătatea pielii.",
+   "benefits": [
+    "Contribuie la menținerea vederii normale",
+    "Protejează celulele de stresul oxidativ",
+    "Susține sănătatea pielii, părului și unghiilor",
+    "Susține imunitatea"
+   ],
+   "composition": "Pulbere de morcov, beta-caroten, licopen, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule o dată pe zi în timpul mesei, cu apă caldă",
+   "warnings": "",
+   "image": "produse/11-vedere/0038-capsule-cu-beta-caroten-si-licopen.jpg"
+  },
+  {
+   "id": "0089-capsule-moi-yan-yan",
+   "cod": "0089",
+   "title": "Capsule moi Yan Yan",
+   "category": "vedere",
+   "type": "Capsule moi",
+   "price": 450,
+   "short": "Afine, ginkgo și luteină pentru ochi sănătoși.",
+   "description": "Complex pentru sănătatea ochilor: afine liofilizate, ginkgo, semințe de struguri, extract de crăiță (sursă de luteină), riboflavină, taurină, vitamina A și zinc. Susține retina, vasele de sânge ale ochiului și acuitatea vizuală.",
+   "benefits": [
+    "Contribuie la menținerea vederii normale",
+    "Protejează celulele ochiului de stresul oxidativ",
+    "Susține microcirculația retinei",
+    "Reduce oboseala ochilor la ecrane"
+   ],
+   "composition": "Pulbere liofilizată de afine, extract de ginkgo, extract din semințe de struguri, extract de crăiță, riboflavină, taurină, vitamina A, lactat de zinc, ceară galbenă, ulei de soia",
+   "pack": "100 capsule × 800 mg",
+   "usage": "1–2 capsule o dată pe zi după masă, cu apă caldă",
+   "warnings": "",
+   "image": "produse/11-vedere/0089-capsule-moi-yan-yan.jpg"
+  },
+  {
+   "id": "0082-pudra-nutritiva-din-afine",
+   "cod": "0082",
+   "title": "Pudră nutritivă din afine",
+   "category": "vedere",
+   "type": "Pudră",
+   "price": 420,
+   "short": "Afine liofilizate cu proteină vegetală pentru ochi și vase sănătoase.",
+   "description": "Complex vitaminic și antioxidant cu antociani naturali din afine, proteine vegetale și fibre. Susține vederea, sistemul vascular și metabolismul.",
+   "benefits": [
+    "Susține sănătatea ochilor",
+    "Protecție antioxidantă",
+    "Susține circulația sângelui",
+    "Sursă de fibre și proteine vegetale"
+   ],
+   "composition": "Pulbere liofilizată de afine, proteină din arahide, concentrat de suc de afine pulbere, fructooligozaharide, pulbere de morcov, xilitol, pulbere de porumb, pulbere de soia neagră, fosfolipide, caragenan, carbonat de calciu, acid DL-malic, aspartam (conține fenilalanină), sorbat de potasiu, arome",
+   "pack": "15 plicuri × 20 g",
+   "usage": "1 plic pe zi dizolvat în 150 ml apă caldă (max. 40 °C), lapte sau terci",
+   "warnings": "Conține arahide și soia. Conține o sursă de fenilalanină.",
+   "image": "produse/11-vedere/0082-pudra-nutritiva-din-afine.jpg"
+  },
+  {
+   "id": "0019-tablete-calciu-pentru-copii-er-kai",
+   "cod": "0019",
+   "title": "Tablete Calciu pentru copii Er Kai",
+   "category": "copii",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Calciu cu absorbție ridicată pentru oase și dinți puternici la copii.",
+   "description": "Calciul este un mineral-cheie în copilărie, implicat în formarea oaselor și dinților, dar și în funcționarea mușchilor și a sistemului nervos. Produsul conține nano-carbonat de calciu, bine asimilat și plăcut la gust.",
+   "benefits": [
+    "Contribuie la formarea oaselor și dinților",
+    "Susține creșterea normală a scheletului",
+    "Susține funcția musculară și nervoasă",
+    "Contribuie la un somn liniștit"
+   ],
+   "composition": "Carbonat de calciu (225 mg calciu/tabletă), lactoză, zahăr, hidroxipropilmetilceluloză, ciclamat de sodiu, maltodextrină, dextrină, amidon, aromă, stearat de magneziu",
+   "pack": "30 tablete × 1000 mg",
+   "usage": "1 tabletă o dată pe zi",
+   "warnings": "",
+   "image": "produse/12-copii/0019-tablete-calciu-pentru-copii-er-kai.jpg"
+  },
+  {
+   "id": "0017-tablete-multivitamine-pentru-copii",
+   "cod": "0017",
+   "title": "Tablete Multivitamine pentru copii",
+   "category": "copii",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Complex de vitamine echilibrat pentru creșterea și dezvoltarea copiilor.",
+   "description": "Complex de vitamine adaptat nevoilor organismului în creștere. Susține imunitatea, dezvoltarea fizică și intelectuală, mai ales în perioade de creștere intensă, efort la școală și deficit sezonier de vitamine.",
+   "benefits": [
+    "Completează aportul de vitamine esențiale",
+    "Susține dezvoltarea fizică și psiho-emoțională",
+    "Contribuie la concentrare și memorie",
+    "Susține imunitatea"
+   ],
+   "composition": "Vitamina C, vitamina E, vitamina B1, vitamina B2, vitamina B6, vitamina B12, vitamina A, vitamina D, niacină, acid folic, lactoză, carbonat de calciu, D-manitol, hidroxipropilmetilceluloză, celuloză microcristalină și excipienți",
+   "pack": "30 tablete × 1000 mg",
+   "usage": "1 tabletă pe zi după micul dejun",
+   "warnings": "",
+   "image": "produse/12-copii/0017-tablete-multivitamine-pentru-copii.jpg"
+  },
+  {
+   "id": "0043-tablete-seleniu-pentru-copii",
+   "cod": "0043",
+   "title": "Tablete Seleniu pentru copii",
+   "category": "copii",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Seleniu pentru imunitatea și dezvoltarea copiilor.",
+   "description": "Seleniul este un microelement vital pentru dezvoltarea fizică și intelectuală a copilului. Susține imunitatea, protejează celulele și contribuie la funcția normală a tiroidei.",
+   "benefits": [
+    "Contribuie la funcționarea normală a sistemului imunitar",
+    "Protejează celulele de stresul oxidativ",
+    "Contribuie la funcția normală a tiroidei",
+    "Susține dezvoltarea cognitivă"
+   ],
+   "composition": "Drojdie îmbogățită cu seleniu, lactoză, hipromeloză, zahăr, acid citric, ciclamat de sodiu, dextrină, aromă, stearat de magneziu",
+   "pack": "30 tablete × 1000 mg",
+   "usage": "1 tabletă pe zi, cu apă caldă",
+   "warnings": "",
+   "image": "produse/12-copii/0043-tablete-seleniu-pentru-copii.jpg"
+  },
+  {
+   "id": "0021-tablete-zinc-pentru-copii",
+   "cod": "0021",
+   "title": "Tablete Zinc pentru copii",
+   "category": "copii",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Zinc pentru imunitatea și dezvoltarea copiilor.",
+   "description": "Zincul este un microelement vital, prezent în peste 200 de enzime și hormoni. Susține imunitatea, creșterea, apetitul și dezvoltarea cognitivă a copiilor.",
+   "benefits": [
+    "Contribuie la funcționarea normală a sistemului imunitar",
+    "Susține creșterea și dezvoltarea normală",
+    "Contribuie la funcția cognitivă normală",
+    "Susține sănătatea pielii, părului și unghiilor"
+   ],
+   "composition": "Lactat de zinc (4 mg zinc/tabletă), lactoză, sorbitol, hidroxipropilmetilceluloză, zahăr, acid citric, maltodextrină, dextrină, amidon, stearat de magneziu",
+   "pack": "30 tablete × 1000 mg",
+   "usage": "1 tabletă o dată pe zi după micul dejun",
+   "warnings": "",
+   "image": "produse/12-copii/0021-tablete-zinc-pentru-copii.jpg"
+  },
+  {
+   "id": "0182-cafea-cu-cordyceps",
+   "cod": "0182",
+   "title": "Cafea cu Cordyceps",
+   "category": "energie-tonus",
+   "type": "Cafea",
+   "price": 320,
+   "short": "Cafea instant cu Cordyceps pentru energie și rezistență.",
+   "description": "Băutură funcțională care îmbină gustul bogat al cafelei naturale cu valoarea biologică a ciupercii Cordyceps, una dintre cele mai cunoscute ciuperci medicinale orientale.",
+   "benefits": [
+    "Energie și claritate mentală",
+    "Susține rezistența la efort",
+    "Susține imunitatea",
+    "Gust intens de cafea"
+   ],
+   "composition": "Cafea instant pulbere, extract de Cordyceps",
+   "pack": "12 plicuri × 3,5 g",
+   "usage": "Conținutul unui plic se dizolvă în 150–300 ml apă fierbinte",
+   "warnings": "",
+   "image": "produse/13-energie-tonus/0182-cafea-cu-cordyceps.jpg"
+  },
+  {
+   "id": "0181-cafea-cu-reishi-si-afine",
+   "cod": "0181",
+   "title": "Cafea cu Reishi și afine",
+   "category": "energie-tonus",
+   "type": "Cafea",
+   "price": 320,
+   "short": "Cafea instant cu Reishi, ginseng și afine pentru energie echilibrată.",
+   "description": "Băutură de cafea funcțională care îmbină efectul revigorant al cafelei cu valoarea extractelor de Reishi, ginseng și afine.",
+   "benefits": [
+    "Energie și concentrare",
+    "Susține adaptarea la stres",
+    "Protecție antioxidantă",
+    "Susține imunitatea"
+   ],
+   "composition": "Cafea instant pulbere, extract de ginseng, extract de afine, extract de Reishi",
+   "pack": "12 plicuri × 3,5 g",
+   "usage": "Conținutul unui plic se dizolvă în 150–300 ml apă fierbinte",
+   "warnings": "",
+   "image": "produse/13-energie-tonus/0181-cafea-cu-reishi-si-afine.jpg"
+  },
+  {
+   "id": "0008-capsule-spirulina-plus",
+   "cod": "0008",
+   "title": "Capsule Spirulină Plus",
+   "category": "energie-tonus",
+   "type": "Capsule",
+   "price": 450,
+   "short": "Spirulină cu ginseng roșu pentru energie, tonus și nutriție completă.",
+   "description": "Spirulina este o sursă naturală de proteine, vitamine, minerale și aminoacizi esențiali. Ginsengul roșu întărește capacitatea organismului de a face față factorilor de mediu nefavorabili.",
+   "benefits": [
+    "Completează aportul de vitamine, minerale și aminoacizi",
+    "Susține energia și rezistența la efort",
+    "Contribuie la procesele naturale de detoxifiere",
+    "Efect antioxidant"
+   ],
+   "composition": "Pulbere de spirulină, extract de rădăcină de ginseng roșu, carbonat de calciu, stearat de magneziu",
+   "pack": "60 capsule × 500 mg",
+   "usage": "1–2 capsule de 1–2 ori pe zi, cu apă caldă",
+   "warnings": "",
+   "image": "produse/13-energie-tonus/0008-capsule-spirulina-plus.jpg"
+  },
+  {
+   "id": "0036-ceai-song-hua",
+   "cod": "0036",
+   "title": "Ceai Song Hua",
+   "category": "energie-tonus",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai cu polen de pin și ceai verde pentru imunitate și tonus.",
+   "description": "Băutură funcțională foarte nutritivă, din materii prime folosite tradițional în medicina orientală pentru energie vitală, imunitate și încetinirea îmbătrânirii.",
+   "benefits": [
+    "Susține imunitatea",
+    "Sursă de vitamine, aminoacizi și minerale",
+    "Susține tonusul fizic și mental",
+    "Protecție antioxidantă"
+   ],
+   "composition": "Extract de flori de pin, pulbere de ceai verde",
+   "pack": "20 plicuri × 2 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "Nu se recomandă persoanelor alergice la polen.",
+   "image": "produse/13-energie-tonus/0036-ceai-song-hua.jpg"
+  },
+  {
+   "id": "0081-ceai-tian-shen",
+   "cod": "0081",
+   "title": "Ceai Tian Shen",
+   "category": "energie-tonus",
+   "type": "Ceai",
+   "price": 290,
+   "short": "Ceai tonic pentru energie, rezistență la stres și refacere.",
+   "description": "Fitobăutură tonică pentru energie vitală, rezistență la stres și refacere după efort fizic și emoțional. Combină plante tradiționale cu ceai verde.",
+   "benefits": [
+    "Crește tonusul general și rezistența fizică",
+    "Susține sistemul nervos și echilibrul emoțional",
+    "Ajută la refacerea după efort",
+    "Efect revigorant"
+   ],
+   "composition": "Rizom de imperata, frunze de pseudo-ginseng, frunze de dud, frunze de bambus, ceai verde",
+   "pack": "20 plicuri × 4 g",
+   "usage": "Adulți: 1–2 plicuri pe zi înainte de masă. Se infuzează în apă clocotită 3–5 minute",
+   "warnings": "",
+   "image": "produse/13-energie-tonus/0081-ceai-tian-shen.jpg"
+  },
+  {
+   "id": "0161-lapte-de-soia-cu-afine",
+   "cod": "0161",
+   "title": "Lapte de soia cu afine",
+   "category": "energie-tonus",
+   "type": "Băutură instant",
+   "price": 390,
+   "short": "Băutură vegetală nutritivă din soia cu afine.",
+   "description": "Băutură vegetală funcțională care îmbină valoarea nutritivă a soiei cu substanțele biologic active ale afinelor. Sursă de proteine vegetale, cu un aport de lecitină și antioxidanți.",
+   "benefits": [
+    "Sursă de proteine vegetale",
+    "Susține vederea datorită afinelor",
+    "Conține calciu și vitamina E",
+    "Băutură hrănitoare pentru toată familia"
+   ],
+   "composition": "Pulbere de lapte de soia, pulbere de afine, frișcă praf, sirop de amidon, ulei vegetal, zahăr, carbonat de calciu, arome, vitamina E, aditivi (cazeinat de sodiu, stabilizator, emulgator, antiaglomerant)",
+   "pack": "16 plicuri × 25 g",
+   "usage": "Conținutul unui plic se dizolvă în 150 ml apă fierbinte (70–80 °C)",
+   "warnings": "Conține soia și lapte (alergeni).",
+   "image": "produse/13-energie-tonus/0161-lapte-de-soia-cu-afine.jpg"
+  },
+  {
+   "id": "0015-pudra-proteica",
+   "cod": "0015",
+   "title": "Pudră proteică",
+   "category": "energie-tonus",
+   "type": "Pudră",
+   "price": 650,
+   "short": "Proteină vegetală din soia pentru mușchi, refacere și energie.",
+   "description": "Pudră proteică vegetală de calitate, pe bază de proteină izolată din soia, care asigură un aport complet de proteine și aminoacizi. Susține formarea și refacerea masei musculare.",
+   "benefits": [
+    "Contribuie la creșterea și menținerea masei musculare",
+    "Susține refacerea după efort",
+    "Sursă de aminoacizi",
+    "Potrivită pentru vegetarieni și sportivi"
+   ],
+   "composition": "Proteină izolată din soia, pulbere de proteină din arahide, pulbere de lecitină din soia, sorbat de potasiu, caragenan",
+   "pack": "500 g",
+   "usage": "1–2 linguri dizolvate în apă sau lapte, de 1–2 ori pe zi",
+   "warnings": "Conține soia și arahide (alergeni).",
+   "image": "produse/13-energie-tonus/0015-pudra-proteica.jpg"
+  },
+  {
+   "id": "0137-tablete-polen-de-pin",
+   "cod": "0137",
+   "title": "Tablete Polen de pin",
+   "category": "energie-tonus",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Polen de pin natural pentru imunitate, tonus și longevitate activă.",
+   "description": "Polenul de pin conține peste 200 de substanțe biologic active: aminoacizi, vitamine, minerale, enzime și flavonoide. Susține imunitatea, digestia, tonusul și încetinirea schimbărilor legate de vârstă.",
+   "benefits": [
+    "Susține imunitatea",
+    "Protecție antioxidantă",
+    "Susține energia și vitalitatea",
+    "Contribuie la buna funcționare a sistemului digestiv"
+   ],
+   "composition": "Polen de pin, amidon",
+   "pack": "90 tablete × 500 mg",
+   "usage": "3–6 tablete de 3 ori pe zi",
+   "warnings": "Nu se recomandă persoanelor alergice la polen.",
+   "image": "produse/13-energie-tonus/0137-tablete-polen-de-pin.jpg"
+  },
+  {
+   "id": "0125-tablete-spirulina",
+   "cod": "0125",
+   "title": "Tablete Spirulină",
+   "category": "energie-tonus",
+   "type": "Tablete",
+   "price": 390,
+   "short": "Superaliment natural bogat în proteine, vitamine și minerale.",
+   "description": "Spirulina este un superaliment cu proteine vegetale complete, aminoacizi esențiali, acizi grași nesaturați, vitamine, minerale și clorofilă. Susține energia, imunitatea și procesele naturale de detoxifiere.",
+   "benefits": [
+    "Sursă de proteine vegetale și aminoacizi esențiali",
+    "Susține energia și rezistența",
+    "Contribuie la detoxifierea naturală",
+    "Susține imunitatea"
+   ],
+   "composition": "Pulbere de spirulină, amidon, dioxid de siliciu",
+   "pack": "500 tablete × 200 mg",
+   "usage": "Copii: 1–2 tablete; adulți: 4–6 tablete de 1–2 ori pe zi, cu apă caldă",
+   "warnings": "",
+   "image": "produse/13-energie-tonus/0125-tablete-spirulina.jpg"
+  },
+  {
+   "id": "1121-1123-absorbante-igienice-smilife",
+   "cod": "1121-1123",
+   "title": "Absorbante igienice SMILIFE",
+   "category": "igiena-uz-extern",
+   "type": "Absorbante",
+   "price": 120,
+   "short": "Absorbante cu bandă cu anioni, aloe și argint – protecție și confort.",
+   "description": "Absorbante moderne pentru igiena feminină, cu protecție sporită și tehnologie cu anioni. Structura multistrat asigură confort maxim, uscăciune și protecție. Sunt disponibile în variantele de zi, de noapte și zilnice (coduri 1121, 1122, 1123).",
+   "benefits": [
+    "Absorbție ridicată",
+    "Senzație de uscăciune și prospețime",
+    "Strat cu suc de aloe",
+    "Variante de zi, de noapte și zilnice"
+   ],
+   "composition": "Bandă cu anioni, material nețesut, peliculă, polimer superabsorbant (SAP), strat de hârtie, suc de aloe, nanoparticule de argint",
+   "pack": "Pachet (variante de zi / noapte / zilnice)",
+   "usage": "Se schimbă la 3–4 ore sau după nevoie",
+   "warnings": "",
+   "image": "produse/14-igiena-uz-extern/1121-1123-absorbante-igienice-smilife.jpg"
+  },
+  {
+   "id": "1146-crema-de-maini-cu-extract-de-afine",
+   "cod": "1146",
+   "title": "Cremă de mâini cu extract de afine",
+   "category": "igiena-uz-extern",
+   "type": "Cremă",
+   "price": 240,
+   "short": "Cremă hrănitoare pentru mâini catifelate și protejate.",
+   "description": "Cremă de mâini cu extract de afine, unt de shea, glicerină și vitamina E. Hidratează, hrănește și protejează pielea mâinilor de uscăciune.",
+   "benefits": [
+    "Hidratare intensă",
+    "Hrănește pielea",
+    "Protejează de uscăciune",
+    "Textură care se absoarbe rapid"
+   ],
+   "composition": "Apă, glicerină, ulei mineral, vaselină, stearat de gliceril, alcool cetearilic, dimeticonă, scualan, acetat de tocoferil, unt de shea, extract de afine, conservanți",
+   "pack": "Tub 80 g",
+   "usage": "Se aplică pe mâini ori de câte ori este nevoie",
+   "warnings": "",
+   "image": "produse/14-igiena-uz-extern/1146-crema-de-maini-cu-extract-de-afine.jpg"
+  },
+  {
+   "id": "1012-pasta-de-dinti-green-world-periuta",
+   "cod": "1012",
+   "title": "Pastă de dinți Green World + periuță",
+   "category": "igiena-uz-extern",
+   "type": "Pastă de dinți",
+   "price": 180,
+   "short": "Pastă de dinți cu extracte din plante pentru dinți curați și gingii sănătoase.",
+   "description": "Pastă pentru îngrijirea zilnică a cavității bucale, care îmbină curățarea eficientă cu protecția și îngrijirea blândă a dinților și gingiilor. Setul include o periuță cu peri moi.",
+   "benefits": [
+    "Curăță eficient placa bacteriană",
+    "Îngrijește gingiile",
+    "Respirație proaspătă",
+    "Periuță cu peri moi inclusă"
+   ],
+   "composition": "Sorbitol, apă, siliciu hidratat, propilenglicol, laurilsulfat de sodiu, arome, metilceluloză, zaharină sodică, xilitol, mentol, extracte de caprifoi și alte plante",
+   "pack": "Tub 120 g + periuță",
+   "usage": "Se periază dinții de 2 ori pe zi",
+   "warnings": "",
+   "image": "produse/14-igiena-uz-extern/1012-pasta-de-dinti-green-world-periuta.jpg"
+  },
+  {
+   "id": "1013-plasturi-detox-pentru-talpi-zu-zu",
+   "cod": "1013",
+   "title": "Plasturi detox pentru tălpi Zu-Zu",
+   "category": "igiena-uz-extern",
+   "type": "Plasturi",
+   "price": 260,
+   "short": "Plasturi pentru tălpi cu oțet de bambus, pentru relaxare peste noapte.",
+   "description": "Plasturi pentru tălpi inspirați din medicina tradițională chineză. Se aplică peste noapte pe talpă și sunt folosiți pentru relaxare, senzația de picioare ușoare și un somn odihnitor.",
+   "benefits": [
+    "Senzație de picioare ușoare dimineața",
+    "Relaxare peste noapte",
+    "Ușor de folosit",
+    "Ingrediente naturale"
+   ],
+   "composition": "Oțet de bambus, extracte naturale, vitamina C, chitină, extracte vegetale",
+   "pack": "10 plasturi",
+   "usage": "Seara se spală și se usucă bine tălpile, apoi se aplică plasturele pe zona arcului plantar; se îndepărtează dimineața",
+   "warnings": "Nu se aplică pe pielea iritată sau cu răni.",
+   "image": "produse/14-igiena-uz-extern/1013-plasturi-detox-pentru-talpi-zu-zu.jpg"
+  },
+  {
+   "id": "2015-autocolant-de-protectie-pentru-telefon",
+   "cod": "2015",
+   "title": "Autocolant de protecție pentru telefon",
+   "category": "casa-gradina",
+   "type": "Accesoriu",
+   "price": 150,
+   "short": "Autocolant pentru telefon, conceput de producător pentru a reduce expunerea la radiația electromagnetică.",
+   "description": "Accesoriu compact care se lipește pe carcasa telefonului. Producătorul îl recomandă pentru reducerea expunerii la radiația electromagnetică în timpul utilizării zilnice a telefonului mobil. Nu modifică aspectul și funcționarea telefonului.",
+   "benefits": [
+    "Se aplică ușor pe spatele telefonului",
+    "Nu afectează semnalul",
+    "Discret și subțire",
+    "Potrivit pentru telefoane și tablete"
+   ],
+   "composition": "—",
+   "pack": "1 bucată",
+   "usage": "Se lipește pe spatele telefonului sau pe carcasă",
+   "warnings": "",
+   "image": "produse/15-casa-gradina/2015-autocolant-de-protectie-pentru-telefon.jpg"
+  },
+  {
+   "id": "2022-ozonator-cu-anioni",
+   "cod": "2022",
+   "title": "Ozonator cu anioni",
+   "category": "casa-gradina",
+   "type": "Aparat",
+   "price": 2500,
+   "short": "Aparat 2 în 1 – ozonator și ionizator pentru aer, apă și alimente.",
+   "description": "Aparat multifuncțional care îmbină funcția de ozonator și de ionizator de aer. Este destinat purificării aerului din încăpere, a apei și a alimentelor (fructe, legume, carne) cu ajutorul oxigenului activ.",
+   "benefits": [
+    "Elimină mirosurile neplăcute din încăpere",
+    "Purifică fructele și legumele",
+    "Ionizează aerul",
+    "Mai multe moduri de funcționare"
+   ],
+   "composition": "—",
+   "pack": "1 aparat + accesorii",
+   "usage": "Se folosește conform instrucțiunilor din manual. Ozonizarea aerului se face în absența oamenilor și a animalelor, apoi încăperea se aerisește",
+   "warnings": "Nu se inhalează ozonul. Nu se lasă la îndemâna copiilor.",
+   "image": "produse/15-casa-gradina/2022-ozonator-cu-anioni.jpg"
+  },
+  {
+   "id": "2134-ingrasamant-nutriplant-organic-plus",
+   "cod": "2134",
+   "title": "Îngrășământ Nutriplant Organic Plus",
+   "category": "casa-gradina",
+   "type": "Îngrășământ",
+   "price": 300,
+   "short": "Îngrășământ organic cu aminoacizi și peptide pentru grădină și culturi.",
+   "description": "Îngrășământ organic modern pe bază de aminoacizi, peptide și chelați cu molecule mici. Stimulează creșterea plantelor, întărește rezistența lor la boli și condiții nefavorabile și îmbunătățește calitatea recoltei. Nu este toxic.",
+   "benefits": [
+    "Stimulează germinarea și creșterea",
+    "Crește rezistența plantelor",
+    "Îmbunătățește gustul și calitatea recoltei",
+    "Sigur pentru oameni, animale și mediu"
+   ],
+   "composition": "Aminoacizi, peptide, chelați de microelemente",
+   "pack": "Flacon",
+   "usage": "Se diluează 1:1000 (1 ml la 1 litru de apă) și se stropesc frunzele și solul la fiecare 7–10 zile, dimineața sau seara",
+   "warnings": "",
+   "image": "produse/15-casa-gradina/2134-ingrasamant-nutriplant-organic-plus.jpg"
+  }
+ ]
+}

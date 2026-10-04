@@ -2,7 +2,7 @@ import { createContext, useContext, useEffect, useMemo, useState, useCallback } 
 import { catalog } from '../data/products'
 
 const CartContext = createContext(null)
-const KEY = 'sc_cart_v1'
+const KEY = 'sc_cart_v2'
 
 function load() {
   try {

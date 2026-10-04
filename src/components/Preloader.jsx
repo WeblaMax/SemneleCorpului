@@ -1,9 +1,11 @@
-import { lazy, Suspense, useEffect, useMemo, useState } from 'react'
+import { lazy, Suspense, useEffect, useMemo } from 'react'
 import { motion } from 'framer-motion'
 import HeartFallback from './HeartFallback'
 
 const HeartScene = lazy(() => import('./HeartScene'))
 const DURATION = 3600
+// Pune true după ce adaugi public/models/heart.glb – altfel se folosește inima procedurală.
+const HAS_HEART_MODEL = false
 
 function webglOk() {
   try {
@@ -16,21 +18,12 @@ function webglOk() {
 
 export default function Preloader({ onDone, reducedMotion }) {
   const start = useMemo(() => performance.now(), [])
-  const [hasModel, setHasModel] = useState(false)
   const use3d = useMemo(() => !reducedMotion && webglOk(), [reducedMotion])
 
   useEffect(() => {
     const t = setTimeout(onDone, reducedMotion ? 1000 : DURATION)
     return () => clearTimeout(t)
   }, [onDone, reducedMotion])
-
-  // Folosește modelul GLB doar dacă există în /public/models
-  useEffect(() => {
-    if (reducedMotion) return
-    fetch(`${import.meta.env.BASE_URL}models/heart.glb`, { method: 'HEAD' })
-      .then((r) => setHasModel(r.ok && !(r.headers.get('content-type') || '').includes('text/html')))
-      .catch(() => {})
-  }, [reducedMotion])
 
   const logo = (
     <img src={`${import.meta.env.BASE_URL}logo.png`} alt="Semnalul Corpului" className="h-24 w-24 rounded-full shadow-glow sm:h-28 sm:w-28" width="112" height="112" />
@@ -63,7 +56,7 @@ export default function Preloader({ onDone, reducedMotion }) {
             <div className="relative h-52 w-52 sm:h-56 sm:w-56">
               {use3d ? (
                 <Suspense fallback={<HeartFallback />}>
-                  <HeartScene start={start} hasModel={hasModel} />
+                  <HeartScene start={start} hasModel={HAS_HEART_MODEL} />
                 </Suspense>
               ) : (
                 <HeartFallback />
