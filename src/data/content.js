@@ -5,12 +5,11 @@ export const NAV = [
   { href: '#contact', label: 'Contact' },
 ]
 
-// ⚠️ Pune aici numărul REAL de WhatsApp, cu prefix de țară, fără + și fără spații (ex.: 37369123456).
 export const CONTACT = {
-  whatsapp: '37360000000',
-  phone: '+373 600 00 000',
-  address: 'Chișinău, Moldova',
-  hours: 'Luni – Vineri 08:00 – 18:00',
+  whatsapp: '37368482047', // format internațional, fără + și fără spații
+  phone: '+373 68 482 047',
+  instagram: 'https://www.instagram.com/semnalulcorpului?stkn=ZGkwbnVqMW9uNzQ2',
+  tiktok: 'https://www.tiktok.com/@semnalul.corpului?_r=1&_t=ZN-9AIQc5acJvC',
 }
 
 export const ORDER_STEPS = [
