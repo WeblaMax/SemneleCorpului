@@ -40,12 +40,11 @@ export default function SystemsSection({ selected, onSelect }) {
   }
 
   return (
-    <section id="sisteme" className="section section-alt">
+    <section id="sisteme" className="section">
       <div className="container-x">
         <SectionHeading
-          eyebrow="Sisteme ale corpului"
-          title="Ce sistem vrei să verifici?"
-          text="Alege un sistem – organul se luminează, iar mai jos vezi produsele din categoriile potrivite."
+          title="Caută după sistemul corpului"
+          text="Alege un sistem și vezi produsele potrivite."
         />
 
         {/* Desktop: cerc interactiv */}
