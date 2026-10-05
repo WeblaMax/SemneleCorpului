@@ -1,8 +1,9 @@
 import { useEffect } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { X, ShoppingCart, Check } from 'lucide-react'
+import { X, Plus, Check, MessageCircle } from 'lucide-react'
 import { imageUrl, categoryName, DISCLAIMER, CURRENCY } from '../data/products'
 import { useCart } from '../context/CartContext'
+import { orderLink } from '../utils/whatsapp'
 
 const Row = ({ label, children }) => children ? (
   <div><dt className="text-xs font-semibold uppercase tracking-wide text-heal-dark">{label}</dt><dd className="mt-0.5 text-sm">{children}</dd></div>
@@ -42,13 +43,16 @@ export default function ProductModal({ product: p, onClose }) {
               <dl className="grid gap-3 sm:grid-cols-2">
                 <Row label="Ambalaj">{p.pack}</Row>
                 <Row label="Mod de utilizare">{p.usage}</Row>
-                <div className="sm:col-span-2"><Row label="Compoziție">{p.composition}</Row></div>
                 <div className="sm:col-span-2"><Row label="Atenționări">{p.warnings}</Row></div>
               </dl>
+              {p.composition && <details className="text-sm"><summary className="cursor-pointer font-semibold text-heal-dark">Compoziție</summary><p className="mt-1">{p.composition}</p></details>}
               <p className="rounded-2xl bg-white/60 p-3 text-xs text-ocean-ink/75">{DISCLAIMER}</p>
-              <div className="flex items-center justify-between gap-3">
+              <div className="flex flex-wrap items-center justify-between gap-3">
                 <p className="font-heading text-2xl font-bold text-ocean-strong">{p.price} {CURRENCY}</p>
-                <button onClick={() => { add(p.id); onClose() }} className="btn-primary"><ShoppingCart className="h-4 w-4" aria-hidden="true" /> Adaugă în coș</button>
+                <div className="flex gap-2">
+                  <button onClick={() => { add(p.id); onClose() }} className="btn-ghost"><Plus className="h-4 w-4" aria-hidden="true" /> În coș</button>
+                  <a href={orderLink([{ product: p, qty: 1 }])} target="_blank" rel="noopener noreferrer" className="btn-primary"><MessageCircle className="h-4 w-4" aria-hidden="true" /> Comandă</a>
+                </div>
               </div>
             </div>
           </motion.div>

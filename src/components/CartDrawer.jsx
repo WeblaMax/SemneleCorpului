@@ -1,8 +1,9 @@
 import { useEffect } from 'react'
 import { AnimatePresence, motion } from 'framer-motion'
-import { X, Minus, Plus, Trash2 } from 'lucide-react'
+import { X, Minus, Plus, Trash2, MessageCircle } from 'lucide-react'
 import { useCart } from '../context/CartContext'
 import { CURRENCY } from '../data/products'
+import { orderLink } from '../utils/whatsapp'
 
 export default function CartDrawer() {
   const { open, setOpen, lines, total, setQty, remove } = useCart()
@@ -44,7 +45,8 @@ export default function CartDrawer() {
             </div>
             <div className="border-t border-ocean-light/60 p-5">
               <p className="mb-4 flex justify-between font-heading text-lg font-bold"><span>Total</span><span>{total} {CURRENCY}</span></p>
-              <a href="#/checkout" onClick={() => setOpen(false)} aria-disabled={!lines.length} className={`btn-primary w-full ${lines.length ? '' : 'pointer-events-none opacity-50'}`}>Finalizează comanda</a>
+              <a href={lines.length ? orderLink(lines) : undefined} target="_blank" rel="noopener noreferrer" aria-disabled={!lines.length} className={`btn-primary w-full ${lines.length ? '' : 'pointer-events-none opacity-50'}`}><MessageCircle className="h-4 w-4" aria-hidden="true" /> Trimite comanda pe WhatsApp</a>
+              <p className="mt-3 text-center text-xs text-ocean-ink/65">Plata cu cardul și livrarea se stabilesc în conversație.</p>
             </div>
           </motion.aside>
         </>
